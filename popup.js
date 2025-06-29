@@ -38,9 +38,14 @@ async function loadCompanies() {
 // Utility: Fetch solved questions from content script
 async function fetchSolved() {
   const tabArr = await tabs.query({ active: true, currentWindow: true });
-  const tabId = tabArr[0].id;
+  const tab = tabArr[0];
+  // Only send message if on leetcode.com
+  if (!tab || !tab.url || !tab.url.startsWith("https://leetcode.com")) {
+    output.textContent = "Please open a leetcode.com problem tab to fetch solved questions.";
+    return [];
+  }
   try {
-    const response = await tabs.sendMessage(tabId, { action: "getSolved" });
+    const response = await tabs.sendMessage(tab.id, { action: "getSolved" });
     if (!response || !response.success) return [];
     return response.data.map(q => q.title);
   } catch {

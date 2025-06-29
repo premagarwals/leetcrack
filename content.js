@@ -1,4 +1,4 @@
-browser.runtime.onMessage.addListener((msg, sender, sendResponse) => {
+chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
   if (msg.action === "getSolved") {
     fetch("https://leetcode.com/api/problems/algorithms/", {
       method: "GET",

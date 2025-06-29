@@ -1,22 +1,23 @@
 {
-  "manifest_version": 2,
-  "name": "LeetCrack",
-  "version": "1.0",
-  "permissions": [
-    "storage",
-    "tabs",
-    "activeTab"
-  ],
-  "browser_action": {
-    "default_popup": "popup.html"
-  },
-  "content_scripts": [
-    {
-      "matches": ["https://leetcode.com/*"],
-      "js": ["content.js"]
+    "manifest_version": 3,
+    "name": "LeetCrack",
+    "version": "1.0",
+    "permissions": [
+      "storage",
+      "tabs",
+      "scripting",
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://leetcode.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "background": {
+      "service_worker": "background.js"
     }
-  ],
-  "background": {
-    "scripts": ["background.js"]
   }
-}

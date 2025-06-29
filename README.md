@@ -29,13 +29,17 @@
    Open your terminal and run:
    ```sh
    git clone https://github.com/premagarwals/leetcrack.git
+   cd leetcrack
    ```
+   **Note:**  
+   in this folder, rename the `manifest-firefox.json` to `manifest.json`, replacing the original one.
+
 2. **Load the Extension in Firefox**
 
    - Open Firefox.
    - In the address bar, type: `about:debugging#/runtime/this-firefox` and press Enter.
    - Click **"Load Temporary Add-on..."**.
-   - In the file dialog, go to the leetcrack folder (where you cloned it) and select the `manifest.json` file from the folder you just entered.
+   - In the file dialog, go to the `leetcrack` folder and select the `manifest.json` file.
 
 3. **Done!**
    - The LeetCrack icon should now appear in your browser toolbar.
@@ -52,17 +56,28 @@
    git clone https://github.com/premagarwals/leetcrack.git
    cd leetcrack
    ```
+
 2. **Load the Extension in Chrome**
 
    - Open Chrome.
    - In the address bar, type: `chrome://extensions/` and press Enter.
    - At the top right, turn on **Developer mode** (toggle switch).
    - Click **"Load unpacked"**.
-   - In the dialog, select the folder you just cloned (the one containing `manifest.json`).
+   - In the dialog, select the `leetcrack` folder (the one containing `manifest.json`).
 
 3. **Done!**
-   - The LeetCrack icon should now appear in your browser extension.
+   - The LeetCrack icon should now appear in your browser extension area.
    - Click it to start using.
+
+---
+
+## ⚠️ Troubleshooting
+
+- **Solved questions not detected in Chrome?**  
+  Refresh your LeetCode tab after installing or reloading the extension, or open a new LeetCode tab.
+
+- **Firefox error about `service_worker` or manifest version?**  
+  Use the provided `manifest-firefox.json` (rename it to `manifest.json` before loading).
 
 ---
 
