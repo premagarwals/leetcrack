@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "LeetCode Solved Fetcher",
+  "name": "LeetCrack",
   "version": "1.0",
   "permissions": [
     "storage",

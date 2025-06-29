@@ -1,3 +1,20 @@
+// Polyfill for browser.* APIs in Chrome
+if (typeof browser === "undefined") {
+  var browser = {};
+  browser.storage = {
+    local: {
+      get: (keys) => new Promise(resolve => chrome.storage.local.get(keys, resolve)),
+      set: (items) => new Promise(resolve => chrome.storage.local.set(items, resolve)),
+      remove: (keys) => new Promise(resolve => chrome.storage.local.remove(keys, resolve)),
+    }
+  };
+  browser.runtime = chrome.runtime;
+  browser.tabs = {
+    query: (queryInfo) => new Promise(resolve => chrome.tabs.query(queryInfo, resolve)),
+    sendMessage: (tabId, msg) => new Promise(resolve => chrome.tabs.sendMessage(tabId, msg, resolve)),
+  };
+}
+
 const companySelect = document.getElementById("company-select");
 const form = document.getElementById("practice-form");
 const output = document.getElementById("output");
