@@ -1,0 +1,424 @@
+[
+  {
+    "company": "Barclays",
+    "timeframe": "6_months",
+    "title": "Lexicographical Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographical-numbers",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Double Modular Exponentiation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/double-modular-exponentiation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Furthest Point From Origin",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Mark Elements on Array by Performing Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Double Modular Exponentiation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/double-modular-exponentiation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Mark Elements on Array by Performing Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Furthest Point From Origin",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Lexicographical Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographical-numbers",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  }
+]

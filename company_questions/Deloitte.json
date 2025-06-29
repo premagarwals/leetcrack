@@ -1,0 +1,472 @@
+[
+  {
+    "company": "Deloitte",
+    "timeframe": "3_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Change Null Values in a Table to the Previous Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Change Null Values in a Table to the Previous Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

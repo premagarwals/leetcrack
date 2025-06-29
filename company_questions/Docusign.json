@@ -1,0 +1,797 @@
+[
+  {
+    "company": "Docusign",
+    "timeframe": "3_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "6_months",
+    "title": "Shortest Bridge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Design Authentication Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Excel Sheet Column Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/excel-sheet-column-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Minesweeper",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minesweeper",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Boats to Save People",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boats-to-save-people",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Partition of String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/optimal-partition-of-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "IPO",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/ipo",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Design Authentication Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Excel Sheet Column Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/excel-sheet-column-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Shortest Bridge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Peak Index in a Mountain Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Inorder Successor in BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Count Good Nodes in Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Optimal Partition of String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/optimal-partition-of-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "IPO",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/ipo",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Boats to Save People",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boats-to-save-people",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Minesweeper",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minesweeper",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  }
+]

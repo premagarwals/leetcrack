@@ -1,0 +1,394 @@
+[
+  {
+    "company": "MongoDB",
+    "timeframe": "3_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Merge Two Binary Trees",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-binary-trees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Binary Trees",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-binary-trees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Merge Two Binary Trees",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-binary-trees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  }
+]

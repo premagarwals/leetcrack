@@ -1,0 +1,152 @@
+[
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Gap",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-gap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Bucket Sort",
+      "Radix Sort"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Maximum Gap",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-gap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Bucket Sort",
+      "Radix Sort"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Sort an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Sort an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Sort an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ]
+  }
+]

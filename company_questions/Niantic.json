@@ -1,0 +1,79 @@
+[
+  {
+    "company": "Niantic",
+    "timeframe": "6_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Niantic",
+    "timeframe": "all_time",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Niantic",
+    "timeframe": "all_time",
+    "title": "Brace Expansion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brace-expansion",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Niantic",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Niantic",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Niantic",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  }
+]

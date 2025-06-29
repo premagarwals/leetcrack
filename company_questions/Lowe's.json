@@ -1,0 +1,120 @@
+[
+  {
+    "company": "Lowe's",
+    "timeframe": "6_months",
+    "title": "Find the Original Typed String I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "6_months",
+    "title": "Minimum Operations to Make Array Values Equal to K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "more_than_6_months",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "more_than_6_months",
+    "title": "Groups of Strings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/groups-of-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "Groups of Strings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/groups-of-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "Find the Original Typed String I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Make Array Values Equal to K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  }
+]

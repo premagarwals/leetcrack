@@ -1,0 +1,269 @@
+[
+  {
+    "company": "razorpay",
+    "timeframe": "30_days",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "3_months",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "6_months",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Good Base",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-good-base",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Most Beautiful Item for Each Query",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Two Best Non-Overlapping Events",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-best-non-overlapping-events",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Excel Sheet Column Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/excel-sheet-column-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Two Best Non-Overlapping Events",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-best-non-overlapping-events",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Most Beautiful Item for Each Query",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Smallest Good Base",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-good-base",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Excel Sheet Column Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/excel-sheet-column-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  }
+]

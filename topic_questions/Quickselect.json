@@ -1,0 +1,2509 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "AMD",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "3_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DevRev",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DevRev",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "EPAM Systems",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Query Kth Smallest Trimmed Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Grab",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Hubspot",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nutanix",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nutanix",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Pocket Gems",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Pocket Gems",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "SIG",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "SIG",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Turing",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Turing",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "more_than_6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  }
+]

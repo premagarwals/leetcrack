@@ -1,0 +1,296 @@
+[
+  {
+    "company": "Wells Fargo",
+    "timeframe": "6_months",
+    "title": "Verbal Arithmetic Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "6_months",
+    "title": "Merge Strings Alternately",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Safest Path in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Minimizing Array After Replacing Pairs With Their Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Count and Say",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Water and Jug Problem",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Verbal Arithmetic Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Find the Safest Path in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Minimizing Array After Replacing Pairs With Their Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Count and Say",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Water and Jug Problem",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Rotate String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Merge Strings Alternately",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  }
+]

@@ -1,0 +1,4612 @@
+[
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Rotating the Box",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Remove Comments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-comments",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Water and Jug Problem",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Maximize Amount After Two Days of Conversions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Find the Closest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-closest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Number of Islands II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Construct Quad Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-quad-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Boundary of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Longest Path With Different Adjacent Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Rotating the Box",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Remove Comments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-comments",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Water and Jug Problem",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "My Calendar I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/my-calendar-i",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Amount of New Area Painted Each Day",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/amount-of-new-area-painted-each-day",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find the Closest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-closest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Number of Islands II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find Minimum Time to Reach Last Room I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find Minimum Time to Reach Last Room II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Maximize Amount After Two Days of Conversions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Construct Quad Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-quad-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Shortest Bridge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Split Message Based on Limit",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "My Calendar I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/my-calendar-i",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Rotating the Box",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Boundary of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Longest Path With Different Adjacent Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Sliding Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Most Profitable Path in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Shuffle an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Amount of New Area Painted Each Day",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/amount-of-new-area-painted-each-day",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Remove Comments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-comments",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Minimize Malware Spread II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Water and Jug Problem",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Number of Matching Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Trie",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Is Graph Bipartite?",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/is-graph-bipartite",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Divide Nodes Into the Maximum Number of Groups",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Meeting Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Search a 2D Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Brightest Position on Street",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Partitioning",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindrome-partitioning",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Path Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/path-sum",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Balanced Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/balanced-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Minimum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Permutation Sequence",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/permutation-sequence",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Path Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/path-sum",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Balanced Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/balanced-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  }
+]

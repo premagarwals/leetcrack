@@ -1,0 +1,182 @@
+[
+  {
+    "company": "KLA",
+    "timeframe": "3_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "6_months",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "more_than_6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "Maximum Swap",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-swap",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "KLA",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

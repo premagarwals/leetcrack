@@ -1,0 +1,753 @@
+[
+  {
+    "company": "Zepto",
+    "timeframe": "3_months",
+    "title": "Longest Univalue Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-univalue-path",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Longest Univalue Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-univalue-path",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Maximum Width Ramp",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-width-ramp",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Path Sum III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-sum-iii",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Car Pooling",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/car-pooling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Rabbits in Forest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rabbits-in-forest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Count Sub Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-sub-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Make Array Empty",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/make-array-empty",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Distance Value Between Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Sum BST in Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "more_than_6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Longest Univalue Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-univalue-path",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Path Sum III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-sum-iii",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Car Pooling",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/car-pooling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Maximum Width Ramp",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-width-ramp",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Rabbits in Forest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rabbits-in-forest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Count Sub Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-sub-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Make Array Empty",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/make-array-empty",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Find the Distance Value Between Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Maximum Sum BST in Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

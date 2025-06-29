@@ -1,0 +1,281 @@
+[
+  {
+    "company": "Roku",
+    "timeframe": "6_months",
+    "title": "Backspace String Compare",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "6_months",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "more_than_6_months",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "more_than_6_months",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "more_than_6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "more_than_6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Backspace String Compare",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  }
+]

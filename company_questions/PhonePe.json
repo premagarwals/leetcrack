@@ -1,0 +1,2424 @@
+[
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Frequencies of Shortest Supersequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frequencies-of-shortest-supersequences",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Split Array into Consecutive Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Queue Reconstruction by Height",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Find Duplicate Subtrees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-duplicate-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Frequencies of Shortest Supersequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frequencies-of-shortest-supersequences",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Viewers Turned Streamers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/viewers-turned-streamers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Queue Reconstruction by Height",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Split Array into Consecutive Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Find Duplicate Subtrees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-duplicate-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Burst Balloons",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Make Sum Divisible by P",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-sum-divisible-by-p",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Frog Jump",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Decoded String at Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decoded-string-at-index",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Burst Balloons",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Remove K Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph",
+    "asked_on": "",
+    "tags": [
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Coins in Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-iii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "IPO",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/ipo",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Tastiness of Candy Basket",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest String With Swaps",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-string-with-swaps",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Cut a Stick",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Check if Point Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-point-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Cracking the Safe",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cracking-the-safe",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/decode-ways-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Swim in Rising Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Magnetic Force Between Two Balls",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/magnetic-force-between-two-balls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Height Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-height-trees",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Queue Reconstruction by Height",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Complete Binary Tree Inserter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/complete-binary-tree-inserter",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Walking Robot Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Frog Jump",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Decoded String at Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decoded-string-at-index",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Burst Balloons",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Smallest String With Swaps",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-string-with-swaps",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Maximum Tastiness of Candy Basket",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Frequencies of Shortest Supersequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frequencies-of-shortest-supersequences",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Viewers Turned Streamers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/viewers-turned-streamers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Check if Point Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-point-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Remove K Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Queue Reconstruction by Height",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "IPO",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/ipo",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Distribute Coins in Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph",
+    "asked_on": "",
+    "tags": [
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Complete Binary Tree Inserter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/complete-binary-tree-inserter",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Swim in Rising Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "House Robber III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-iii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Cut a Stick",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Split Array into Consecutive Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Make Sum Divisible by P",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-sum-divisible-by-p",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Binary Tree Cameras",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Maximum Total Damage With Spell Casting",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find Duplicate Subtrees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-duplicate-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Magnetic Force Between Two Balls",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/magnetic-force-between-two-balls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Cracking the Safe",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cracking-the-safe",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Minimum Height Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-height-trees",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Number of Islands II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Decode Ways II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/decode-ways-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Walking Robot Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  }
+]

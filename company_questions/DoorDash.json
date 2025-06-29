@@ -1,0 +1,3116 @@
+[
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Next Greater Element III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Minimize Malware Spread",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Buddy Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/buddy-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Count Nodes With the Highest Score",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Buddy Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/buddy-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Most Profit Assigning Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profit-assigning-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Single-Threaded CPU",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-threaded-cpu",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Next Greater Element III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Minimize Malware Spread",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Count Nodes With the Highest Score",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Best Meeting Point",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Sliding Window Median",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-median",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Most Profit Assigning Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profit-assigning-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Count Sub Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-sub-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Single-Threaded CPU",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-threaded-cpu",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Element III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Buddy Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/buddy-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Best Meeting Point",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Count Nodes With the Highest Score",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Swim in Rising Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Count All Valid Pickup and Delivery Options",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Interval List Intersections",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Immediate Food Delivery I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Gap",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-gap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Bucket Sort",
+      "Radix Sort"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Path to Get Food",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-food",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Performance of a Team",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Mice and Cheese",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/mice-and-cheese",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Analyze User Website Visit Pattern",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Path With Maximum Minimum Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Subsequence With the Minimum Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Employee Free Time",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Diameter of N-Ary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/diameter-of-n-ary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Path Quality of a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Most Profit Assigning Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profit-assigning-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Buddy Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/buddy-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Next Greater Element III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Single-Threaded CPU",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-threaded-cpu",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Count Sub Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-sub-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Count All Valid Pickup and Delivery Options",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Interval List Intersections",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Best Meeting Point",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Count Nodes With the Highest Score",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Mice and Cheese",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/mice-and-cheese",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Subsequence With the Minimum Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Swim in Rising Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Minimize Malware Spread",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Maximum Gap",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-gap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Bucket Sort",
+      "Radix Sort"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Shortest Path to Get Food",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-food",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Analyze User Website Visit Pattern",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Maximum Path Quality of a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Task Scheduler II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Sliding Window Median",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-median",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Brace Expansion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brace-expansion",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Path With Maximum Minimum Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Number of Closed Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-closed-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Diameter of N-Ary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/diameter-of-n-ary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Maximum Performance of a Team",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Implement Trie II (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-ii-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Counting Words With a Given Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/counting-words-with-a-given-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Employee Free Time",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  }
+]

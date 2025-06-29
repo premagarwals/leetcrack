@@ -1,0 +1,232 @@
+[
+  {
+    "company": "HCL",
+    "timeframe": "30_days",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "3_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "3_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HCL",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

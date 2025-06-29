@@ -1,0 +1,997 @@
+[
+  {
+    "company": "SAP",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "3_months",
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Infection Sequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Path Quality of a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Graph"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Movie Rating",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/movie-rating",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Count Increasing Quadruplets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Enumeration",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Perfect Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-perfect-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Students Taking Exam",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-students-taking-exam",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Matrix",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Movie Rating",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/movie-rating",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Count Increasing Quadruplets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Enumeration",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Count the Number of Infection Sequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Path Quality of a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Graph"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Students Taking Exam",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-students-taking-exam",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Matrix",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Monotone Increasing Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/monotone-increasing-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Fibonacci Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Valid Perfect Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-perfect-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Linked List Cycle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Rotate String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  }
+]

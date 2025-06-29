@@ -1,0 +1,443 @@
+[
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Minimum Cost to Make Array Equal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Minimum Cost to Make Array Equal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find Candidates for Data Scientist Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Powerful Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Points Inside the Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-points-inside-the-square",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Maximum Points Inside the Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-points-inside-the-square",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Find Candidates for Data Scientist Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Maximize Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Count the Number of Powerful Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Make Array Equal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  }
+]

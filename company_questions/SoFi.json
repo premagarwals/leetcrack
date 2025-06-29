@@ -1,0 +1,362 @@
+[
+  {
+    "company": "SoFi",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Product Less Than K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Degree of an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Degree of an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Subarray Product Less Than K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

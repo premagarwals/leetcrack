@@ -1,0 +1,202 @@
+[
+  {
+    "company": "Stripe",
+    "timeframe": "3_months",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "6_months",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "6_months",
+    "title": "Minimum Penalty for a Shop",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "6_months",
+    "title": "Brace Expansion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brace-expansion",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Penalty for a Shop",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Minimum Penalty for a Shop",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Brace Expansion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brace-expansion",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  }
+]

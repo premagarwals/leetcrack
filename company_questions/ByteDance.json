@@ -1,0 +1,1449 @@
+[
+  {
+    "company": "ByteDance",
+    "timeframe": "3_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "3_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Number of Good Leaf Nodes Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Delete Operation for Two Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-operation-for-two-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Sum Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Find All Good Indices",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-good-indices",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Count Binary Substrings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Value at a Given Index in a Bounded Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "First Day Where You Have Been in All the Rooms",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicate Letters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Degree of an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Good Leaf Nodes Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "First Day Where You Have Been in All the Rooms",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Remove Duplicate Letters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Delete Operation for Two Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-operation-for-two-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Number of Good Leaf Nodes Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Sum Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Search a 2D Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Add to Array-Form of Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-to-array-form-of-integer",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Count Binary Substrings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Maximum Value at a Given Index in a Bounded Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Degree of an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Find All Good Indices",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-good-indices",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  }
+]

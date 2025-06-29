@@ -1,0 +1,2440 @@
+[
+  {
+    "company": "Affirm",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "timeframe": "all_time",
+    "title": "Number of Recent Calls",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Product of the Last K Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "more_than_6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "30_days",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "30_days",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "3_months",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "3_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "6_months",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Blizzard",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Blizzard",
+    "timeframe": "more_than_6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Blizzard",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Blizzard",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Product of the Last K Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Design an Ordered Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-an-ordered-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Design Front Middle Back Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-front-middle-back-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Design Front Middle Back Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-front-middle-back-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Cloudflare",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Cloudflare",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "30_days",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "3_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "30_days",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Number of Recent Calls",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Finding MK Average",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/finding-mk-average",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Online Stock Span",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/online-stock-span",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Finding MK Average",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/finding-mk-average",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "more_than_6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "all_time",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "more_than_6_months",
+    "title": "Find Consecutive Integers from a Data Stream",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Counting",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "all_time",
+    "title": "Find Consecutive Integers from a Data Stream",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Counting",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "more_than_6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Jane Street",
+    "timeframe": "more_than_6_months",
+    "title": "Stream of Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stream-of-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design",
+      "Trie",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Jane Street",
+    "timeframe": "all_time",
+    "title": "Stream of Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stream-of-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design",
+      "Trie",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Two Sum III - Data structure design",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "6_months",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "30_days",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "3_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "more_than_6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "all_time",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Okta",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Okta",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "6_months",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "timeframe": "6_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "timeframe": "all_time",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Ripple",
+    "timeframe": "more_than_6_months",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Ripple",
+    "timeframe": "all_time",
+    "title": "Stock Price Fluctuation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "3_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Stream of Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stream-of-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design",
+      "Trie",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Splunk",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Splunk",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Splunk",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Splunk",
+    "timeframe": "all_time",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "more_than_6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Twitch",
+    "timeframe": "more_than_6_months",
+    "title": "Design a File Sharing System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-file-sharing-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Twitch",
+    "timeframe": "all_time",
+    "title": "Design a File Sharing System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-file-sharing-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "more_than_6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  }
+]

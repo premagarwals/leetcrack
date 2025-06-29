@@ -1,0 +1,166 @@
+[
+  {
+    "company": "Mastercard",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "more_than_6_months",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  }
+]

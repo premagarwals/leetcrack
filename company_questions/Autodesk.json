@@ -1,0 +1,695 @@
+[
+  {
+    "company": "Autodesk",
+    "timeframe": "30_days",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "30_days",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "30_days",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "3_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "3_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "3_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Changing Keys",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-changing-keys",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Elements Into Two Arrays I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Elements Into Two Arrays II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Restore IP Addresses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Number of Changing Keys",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-changing-keys",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Distribute Elements Into Two Arrays I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Distribute Elements Into Two Arrays II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Restore IP Addresses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  }
+]

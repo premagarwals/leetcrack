@@ -1,0 +1,6010 @@
+[
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Sort Integers by The Power Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-power-value",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Memoization",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Lexicographical Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographical-numbers",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Create Hello World Function",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Remove Letter To Equalize Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Number of Ships in a Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ships-in-a-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Product of the Last K Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Odd Even Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/odd-even-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Find the Punishment Number of an Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-punishment-number-of-an-integer",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Invalid Transactions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/invalid-transactions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Find the Number of Distinct Colors Among the Balls",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Tuple with Same Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tuple-with-same-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Partition Array According to Given Pivot",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-array-according-to-given-pivot",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Dot Product of Two Sparse Vectors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Design"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Design A Leaderboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Binary Search",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Check if Number is a Sum of Powers of Three",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Count Unhappy Friends",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-unhappy-friends",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Counter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/counter",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Last Person to Fit in the Bus",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Merge Strings Alternately",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Remove All Occurrences of a Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Count Complete Tree Nodes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-complete-tree-nodes",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Bit Manipulation",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Find Unique Binary String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-unique-binary-string",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Two City Scheduling",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-city-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Sum of Beauty of All Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Remove K Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "All Paths From Source to Target",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/all-paths-from-source-to-target",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Serialize and Deserialize N-ary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Max Sum of a Pair With Equal Sum of Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Sort Integers by The Power Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-power-value",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Memoization",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Invalid Transactions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/invalid-transactions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Create Hello World Function",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Remove Letter To Equalize Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Design Underground System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-underground-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Number of Ships in a Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ships-in-a-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Count Unhappy Friends",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-unhappy-friends",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Check if Array Is Sorted and Rotated",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Two City Scheduling",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-city-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Design an Ordered Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-an-ordered-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Design A Leaderboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Is Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Find Largest Value in Each Tree Row",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Count Beautiful Splits in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-beautiful-splits-in-an-array",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Find Score of an Array After Marking All Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Minimum Limit of Balls in a Bag",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Design Browser History",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Add Two Integers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Invalid Transactions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/invalid-transactions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Design Underground System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-underground-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Create Hello World Function",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "All Paths From Source to Target",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/all-paths-from-source-to-target",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Merge Strings Alternately",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Check if Array Is Sorted and Rotated",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Two City Scheduling",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-city-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Design A Leaderboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Peak Index in a Mountain Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Palindrome Partitioning",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindrome-partitioning",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Find the Winner of the Circular Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Recursion",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Confirmation Rate",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/confirmation-rate",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Monthly Transactions I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/monthly-transactions-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Add Two Numbers II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Greatest Common Divisor of Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Permutation in String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Partition List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Binary Search Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Count and Say",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Partition List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Unique Binary Search Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Count and Say",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "N-Queens II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  }
+]

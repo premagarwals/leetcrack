@@ -1,0 +1,4875 @@
+[
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Make Costs of Paths Equal in a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "30_days",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Minimum Cost Good Caption",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-good-caption",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Minimum Operations to Make Character Frequencies Equal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Partition Equal Subset Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "All Nodes Distance K in Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Add Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Maximum Value at a Given Index in a Bounded Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Heaters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/heaters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Divide and Conquer",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Meeting Rooms III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/meeting-rooms-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Numbers At Most N Given Digit Set",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Furthest Building You Can Reach",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Make Costs of Paths Equal in a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Maximum Spending After Buying Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-spending-after-buying-items",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Greatest Common Divisor of Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Add Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Maximum Value at a Given Index in a Bounded Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Minimum Swaps to Group All 1's Together",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Reorder List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Subarray With Elements Greater Than Varying Threshold",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Union Find",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/meeting-rooms-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Merge Operations to Turn Array Into a Palindrome",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Divide and Conquer",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Water and Jug Problem",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Permutation in String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Maximal Score After Applying K Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Shortest Path in Binary Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Tree Diameter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tree-diameter",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Minimum Moves to Spread Stones Over Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Score of Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/score-of-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Number of Good Leaf Nodes Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Find All Duplicates in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "My Calendar I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/my-calendar-i",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Restore IP Addresses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Binary Search Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Ranges",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-ranges",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Compare Version Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Fraction to Recurring Decimal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Path Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Linked List Cycle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Find Target Indices After Sorting Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-target-indices-after-sorting-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Reorder List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Restore IP Addresses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Reorder List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Unique Binary Search Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Compare Version Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Missing Ranges",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-ranges",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Path Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Fraction to Recurring Decimal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Find Target Indices After Sorting Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-target-indices-after-sorting-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Word Ladder II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Linked List Cycle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Path Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/path-sum",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Valid Number",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/valid-number",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

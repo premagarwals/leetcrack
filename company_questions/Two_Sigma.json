@@ -1,0 +1,724 @@
+[
+  {
+    "company": "Two Sigma",
+    "timeframe": "3_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "3_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "6_months",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Game of Life",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Sum Circular Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-sum-circular-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Queue",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Four",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray Sum with One Deletion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Square Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-square-numbers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Orders in the Backlog",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Space Wasted From Packaging",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-space-wasted-from-packaging",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray Sum with One Deletion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Game of Life",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Power of Four",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Maximum Sum Circular Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-sum-circular-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Queue",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Minimum Space Wasted From Packaging",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-space-wasted-from-packaging",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Number of Orders in the Backlog",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Sum of Square Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-square-numbers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Robot Room Cleaner",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Interactive"
+    ]
+  }
+]

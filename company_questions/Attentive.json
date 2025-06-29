@@ -1,0 +1,277 @@
+[
+  {
+    "company": "Attentive",
+    "timeframe": "30_days",
+    "title": "Parse Lisp Expression",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parse-lisp-expression",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "3_months",
+    "title": "Parse Lisp Expression",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parse-lisp-expression",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "3_months",
+    "title": "Find Pivot Index",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "3_months",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "6_months",
+    "title": "Parse Lisp Expression",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parse-lisp-expression",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "6_months",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "6_months",
+    "title": "Valid Palindrome II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "6_months",
+    "title": "Find Pivot Index",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "more_than_6_months",
+    "title": "Parse Lisp Expression",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parse-lisp-expression",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "more_than_6_months",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Parse Lisp Expression",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parse-lisp-expression",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Find Pivot Index",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  }
+]

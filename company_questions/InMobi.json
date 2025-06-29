@@ -1,0 +1,170 @@
+[
+  {
+    "company": "InMobi",
+    "timeframe": "6_months",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "6_months",
+    "title": "Maximum Number of Robots Within Budget",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "6_months",
+    "title": "Redundant Connection",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/redundant-connection",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "6_months",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "more_than_6_months",
+    "title": "Reach a Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reach-a-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "all_time",
+    "title": "Reach a Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reach-a-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "all_time",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Robots Within Budget",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "all_time",
+    "title": "Redundant Connection",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/redundant-connection",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "all_time",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  }
+]

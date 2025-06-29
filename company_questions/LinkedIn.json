@@ -1,0 +1,4957 @@
+[
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Nested List Weight Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Max Stack",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-stack",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Nested List Weight Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Shortest Word Distance II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Exclusive Time of Functions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Shortest Word Distance",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Find Smallest Letter Greater Than Target",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-smallest-letter-greater-than-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Delete Node in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-node-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Binary Tree Upside Down",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-upside-down",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Second Minimum Node In a Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Nested List Weight Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Max Stack",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-stack",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Nested List Weight Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Shortest Word Distance II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Second Minimum Node In a Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Binary Tree Upside Down",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-upside-down",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Shortest Word Distance",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Exclusive Time of Functions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Possible Bipartition",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Shuffle an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Find Smallest Letter Greater Than Target",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-smallest-letter-greater-than-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Closest Leaf in a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Robot Room Cleaner",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Expression Add Operators",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/expression-add-operators",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Long Pressed Name",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/long-pressed-name",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Delete Node in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-node-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Max Stack",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-stack",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Nested List Weight Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Shortest Word Distance II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Nested List Weight Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Binary Tree Upside Down",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-upside-down",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Second Minimum Node In a Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Shortest Word Distance",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Robot Room Cleaner",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Possible Bipartition",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Factor Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/factor-combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Sort Transformed Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-transformed-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Closest Leaf in a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Find Smallest Letter Greater Than Target",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-smallest-letter-greater-than-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Exclusive Time of Functions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Shuffle an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Long Pressed Name",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/long-pressed-name",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Valid Triangle Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-triangle-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Dot Product of Two Sparse Vectors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Valid Perfect Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-perfect-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Expression Add Operators",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/expression-add-operators",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "01 Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Delete Node in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-node-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Max Stack",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-stack",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Nested List Weight Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Design Authentication Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Word Distance II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Nested List Weight Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Building H2O",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/building-h2o",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find Pivot Index",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Exclusive Time of Functions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Upside Down",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-upside-down",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Number",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/valid-number",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Perfect Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-perfect-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Triangle Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-triangle-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Factor Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/factor-combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Word Distance",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Robot Bounded In Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Count Integers in Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-integers-in-intervals",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Knight Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Type Word Using Special Typewriter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Second Minimum Node In a Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of All Odd Length Subarrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Total Tastiness of Purchased Fruits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find Largest Value in Each Tree Row",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Create Binary Tree From Descriptions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Transformed Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-transformed-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum IV - Input is a BST",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Nested List Weight Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Shortest Word Distance II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Nested List Weight Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Binary Tree Upside Down",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-upside-down",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Shortest Word Distance",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Factor Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/factor-combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Valid Perfect Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-perfect-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Second Minimum Node In a Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Valid Number",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/valid-number",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Count Integers in Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-integers-in-intervals",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Sparse Matrix Multiplication",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sparse-matrix-multiplication",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Shortest Word Distance III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Exclusive Time of Functions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Create Binary Tree From Descriptions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Sum of Square Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-square-numbers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Time to Cross a Bridge",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/time-to-cross-a-bridge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Minimum Deletions to Make Array Divisible",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Maximize Total Tastiness of Purchased Fruits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Find Largest Value in Each Tree Row",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Two Sum III - Data structure design",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Valid Triangle Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-triangle-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Find K Closest Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Sort Transformed Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-transformed-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Shuffle an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Word Ladder II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "House Robber IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Two Sum IV - Input is a BST",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Type Word Using Special Typewriter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Reorder List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

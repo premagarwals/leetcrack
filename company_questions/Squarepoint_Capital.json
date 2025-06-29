@@ -1,0 +1,285 @@
+[
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "3_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "6_months",
+    "title": "Subarray Product Less Than K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "6_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Subarray Product Less Than K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "company": "FactSet",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "more_than_6_months",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicate Letters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "all_time",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "all_time",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "all_time",
+    "title": "Remove Duplicate Letters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "FactSet",
+    "timeframe": "all_time",
+    "title": "Increasing Triplet Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  }
+]

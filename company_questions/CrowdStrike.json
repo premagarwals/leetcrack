@@ -1,0 +1,246 @@
+[
+  {
+    "company": "CrowdStrike",
+    "timeframe": "3_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "3_months",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "6_months",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "more_than_6_months",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "more_than_6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Encode and Decode Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  }
+]

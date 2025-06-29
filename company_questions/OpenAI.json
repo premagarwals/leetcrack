@@ -1,0 +1,364 @@
+[
+  {
+    "company": "OpenAI",
+    "timeframe": "30_days",
+    "title": "Design SQL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-sql",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "3_months",
+    "title": "Design SQL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-sql",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "3_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "3_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "6_months",
+    "title": "Design SQL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-sql",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "6_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "6_months",
+    "title": "Encode and Decode Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "6_months",
+    "title": "Largest Local Values in a Matrix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Design SQL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-sql",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Flood Fill",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Design SQL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-sql",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Flood Fill",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Encode and Decode Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "timeframe": "all_time",
+    "title": "Largest Local Values in a Matrix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  }
+]

@@ -1,0 +1,827 @@
+[
+  {
+    "company": "Paytm",
+    "timeframe": "6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Linked List Cycle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Remove All Adjacent Duplicates In String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Nice Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-nice-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Maximum of Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-maximum-of-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Find Indices With Index and Value Difference II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Unequal Triplets in Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-unequal-triplets-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Find Indices With Index and Value Difference I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Number of Occurrences",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/unique-number-of-occurrences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Operations to Make Network Connected",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Remove All Adjacent Duplicates In String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Number of Unequal Triplets in Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-unequal-triplets-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Minimize Maximum of Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-maximum-of-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Longest Nice Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-nice-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Find Indices With Index and Value Difference I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Find Indices With Index and Value Difference II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Linked List Cycle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Execute Asynchronous Functions in Parallel",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/execute-asynchronous-functions-in-parallel",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Largest Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Number of Operations to Make Network Connected",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Unique Number of Occurrences",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/unique-number-of-occurrences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  }
+]

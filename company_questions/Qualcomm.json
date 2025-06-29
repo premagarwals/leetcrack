@@ -1,0 +1,766 @@
+[
+  {
+    "company": "Qualcomm",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "6_months",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Middle of the Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Average of Levels in Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-of-levels-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "String Compression III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression-iii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Ones",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-ones",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Find Winner on a Tic Tac Toe Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "String Compression III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression-iii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Ones",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-ones",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Middle of the Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Implement Queue using Stacks",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Find Winner on a Tic Tac Toe Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Design Memory Allocator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Average of Levels in Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-of-levels-in-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

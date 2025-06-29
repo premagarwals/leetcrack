@@ -1,0 +1,1434 @@
+[
+  {
+    "company": "Tesla",
+    "timeframe": "30_days",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "3_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "3_months",
+    "title": "Design Circular Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "3_months",
+    "title": "Building H2O",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/building-h2o",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "6_months",
+    "title": "Design Circular Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "6_months",
+    "title": "Building H2O",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/building-h2o",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Find Winner on a Tic Tac Toe Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Decode the Message",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/decode-the-message",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Balloons",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Find Followers Count",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-followers-count",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Is Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Design Circular Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Maximal Network Rank",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-network-rank",
+    "asked_on": "",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Find Followers Count",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-followers-count",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Design Circular Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Find Winner on a Tic Tac Toe Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Decode the Message",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/decode-the-message",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Balloons",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Building H2O",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/building-h2o",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Largest Perimeter Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/largest-perimeter-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Is Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Maximal Network Rank",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-network-rank",
+    "asked_on": "",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  }
+]

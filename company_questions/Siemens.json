@@ -1,0 +1,589 @@
+[
+  {
+    "company": "Siemens",
+    "timeframe": "6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Minimized Maximum of Products Distributed to Any Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Peaks in Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/peaks-in-array",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Peaks in Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/peaks-in-array",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Minimized Maximum of Products Distributed to Any Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Angle Between Hands of a Clock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Largest Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

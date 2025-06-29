@@ -1,0 +1,511 @@
+[
+  {
+    "company": "Booking.com",
+    "timeframe": "3_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "6_months",
+    "title": "Reconstruct Itinerary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "6_months",
+    "title": "Reward Top K Students",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reward-top-k-students",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Reward Top K Students",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reward-top-k-students",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Backspace String Compare",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Delete Duplicate Folders in System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Reconstruct Itinerary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "K Highest Ranked Items Within a Price Range",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Two Out of Three",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-out-of-three",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Coloring A Border",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coloring-a-border",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Order Two Columns Independently",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/order-two-columns-independently",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Count Number of Nice Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Reward Top K Students",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reward-top-k-students",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Delete Duplicate Folders in System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Coloring A Border",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coloring-a-border",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Two Out of Three",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-out-of-three",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "K Highest Ranked Items Within a Price Range",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Order Two Columns Independently",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/order-two-columns-independently",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Reconstruct Itinerary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Backspace String Compare",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Count Number of Nice Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "6_months",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize the Number of Partitions After Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Maximize the Number of Partitions After Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

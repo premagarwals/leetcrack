@@ -1,0 +1,6425 @@
+[
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Create Hello World Function",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Merge Strings Alternately",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Add Two Integers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Design a Number Container System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-number-container-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Count Number of Bad Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-bad-pairs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Finding MK Average",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/finding-mk-average",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Contains Duplicate II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Create a DataFrame from List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-a-dataframe-from-list",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Special Array I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/special-array-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Clear Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/clear-digits",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Find the Number of Distinct Colors Among the Balls",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Remove All Occurrences of a Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Max Consecutive Ones",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/max-consecutive-ones",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Russian Doll Envelopes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Valid Palindrome II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Palindrome Partitioning",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindrome-partitioning",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Tuple with Same Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tuple-with-same-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Average Time of Process per Machine",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Maximum Average Subarray I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-average-subarray-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Hand of Straights",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/hand-of-straights",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Palindrome Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Online Stock Span",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/online-stock-span",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Concatenation of Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/concatenation-of-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "String Compression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-compression",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Transpose Matrix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/transpose-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Maximum Width Ramp",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-width-ramp",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Maximum Ascending Subarray Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-ascending-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Merge Strings Alternately",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Create Hello World Function",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Add Two Integers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Create a DataFrame from List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-a-dataframe-from-list",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Finding MK Average",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/finding-mk-average",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Burst Balloons",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Logger Rate Limiter",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Russian Doll Envelopes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Maximum Average Subarray I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-average-subarray-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Running Sum of 1d Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/running-sum-of-1d-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Linked List Cycle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Range Module",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/range-module",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Create Hello World Function",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Search Insert Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Burst Balloons",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Time Taken to Cross the Door",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/meeting-rooms-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Target Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/target-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Odd Even Jump",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/odd-even-jump",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Find the Safest Path in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Implement Stack using Queues",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/implement-stack-using-queues",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Fruit Into Baskets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fruit-into-baskets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Delete Node in a Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "To Be Or Not To Be",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/to-be-or-not-to-be",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Reverse String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Detonate the Maximum Bombs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Detect Squares",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/detect-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Single Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Get the Size of a DataFrame",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/get-the-size-of-a-dataframe",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Hand of Straights",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/hand-of-straights",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Check if Word Can Be Placed In Crossword",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Robot Room Cleaner",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Minimum Falling Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-falling-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Smallest String Starting From Leaf",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-string-starting-from-leaf",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Make The String Great",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/make-the-string-great",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Reorder List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rising Temperature",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Expression Add Operators",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/expression-add-operators",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Summary Ranges",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Perfect Squares",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/perfect-squares",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Search a 2D Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Permutation Sequence",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/permutation-sequence",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Balanced Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/balanced-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Contains Duplicate II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Dungeon Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/dungeon-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Game of Life",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Partition List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Path Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/path-sum",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Ugly Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ugly-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Stack using Queues",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/implement-stack-using-queues",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Strobogrammatic Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/strobogrammatic-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Meeting Rooms",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Paths",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Pascal's Triangle II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Employees Earning More Than Their Managers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Linked List Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-linked-list-elements",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Word Pattern",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/word-pattern",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Read N Characters Given Read4",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Restore IP Addresses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Insertion Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insertion-sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rectangle Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangle-area",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Scores",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-scores",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Maximal Rectangle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Minimum Path Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/same-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Symmetric Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "3Sum Closest",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Group Shifted Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-shifted-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Game of Life",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Missing Ranges",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-ranges",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Binary Tree Paths",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Fraction to Recurring Decimal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Number of Digit One",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-digit-one",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Implement Stack using Queues",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/implement-stack-using-queues",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Wiggle Sort",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/wiggle-sort",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "3Sum Smaller",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-smaller",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Number of Islands II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Zigzag Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Flip Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flip-game",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Strobogrammatic Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/strobogrammatic-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Paint Fence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-fence",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Flatten 2D Vector",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-2d-vector",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Design",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Peeking Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/peeking-iterator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Unique Word Abbreviation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-word-abbreviation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Flip Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flip-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Memoization",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Binary Tree Postorder Traversal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-postorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Insertion Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insertion-sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Combinations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combinations",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Minimum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Word Pattern",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/word-pattern",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Factorial Trailing Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/factorial-trailing-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Read N Characters Given Read4",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "N-Queens II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Rank Scores",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-scores",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Valid Number",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/valid-number",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Binary Tree Level Order Traversal II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find the Celebrity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Range Sum Query - Mutable",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/range-sum-query-mutable",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

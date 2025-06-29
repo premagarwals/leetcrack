@@ -1,0 +1,564 @@
+[
+  {
+    "company": "Meesho",
+    "timeframe": "30_days",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "3_months",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "6_months",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "6_months",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "6_months",
+    "title": "Minimum Time to Complete Trips",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "6_months",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Delete and Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-and-earn",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Subsequence With the Minimum Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Longest Equal Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-longest-equal-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Degree of a Connected Trio in a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Count Complete Substrings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-complete-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Non-decreasing Subarray From Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Count Complete Substrings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-complete-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Delete and Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-and-earn",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Subsequence With the Minimum Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Complete Trips",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Find the Longest Equal Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-longest-equal-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Longest Non-decreasing Subarray From Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Minimum Degree of a Connected Trio in a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  }
+]

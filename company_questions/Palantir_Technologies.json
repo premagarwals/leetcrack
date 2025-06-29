@@ -1,0 +1,815 @@
+[
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "3_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "3_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Construct Quad Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-quad-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Range Sum Query - Immutable",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/range-sum-query-immutable",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Contains Duplicate III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Contains Duplicate II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Selling Pieces of Wood",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/selling-pieces-of-wood",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Size Subarray Sum Equals k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Word Distance III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Construct Quad Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-quad-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Flood Fill",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Minimum Time Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Range Sum Query - Immutable",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/range-sum-query-immutable",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Selling Pieces of Wood",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/selling-pieces-of-wood",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Maximum Size Subarray Sum Equals k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Construct Quad Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-quad-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Shortest Word Distance III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Flood Fill",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Sort List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  }
+]

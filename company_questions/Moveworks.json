@@ -1,0 +1,192 @@
+[
+  {
+    "company": "Moveworks",
+    "timeframe": "6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "6_months",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "6_months",
+    "title": "Shortest Uncommon Substring in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "more_than_6_months",
+    "title": "Synonymous Sentences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Uncommon Substring in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Removable Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "all_time",
+    "title": "Shortest Uncommon Substring in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "all_time",
+    "title": "Synonymous Sentences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "all_time",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Moveworks",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Removable Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  }
+]

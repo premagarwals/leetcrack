@@ -1,0 +1,447 @@
+[
+  {
+    "company": "Rippling",
+    "timeframe": "6_months",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "6_months",
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "6_months",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Synonymous Sentences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Employee Importance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/employee-importance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Duplicate Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Synonymous Sentences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Employee Importance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/employee-importance",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Longest Duplicate Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  }
+]

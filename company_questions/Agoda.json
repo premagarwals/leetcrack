@@ -1,0 +1,936 @@
+[
+  {
+    "company": "Agoda",
+    "timeframe": "30_days",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "3_months",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "3_months",
+    "title": "Minimum Absolute Difference",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "3_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Minimum Absolute Difference",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Subarray Product Less Than K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Brick Wall",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brick-wall",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Triangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Child Who Has the Ball After K Seconds",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Find the Child Who Has the Ball After K Seconds",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Brick Wall",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brick-wall",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Minimum Absolute Difference",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Triangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Permutation in String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Lexicographically Smallest String After Substring Operation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Can Place Flowers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/plus-one",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Agoda",
+    "timeframe": "all_time",
+    "title": "Subarray Product Less Than K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Relative Sort Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/relative-sort-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Relative Sort Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/relative-sort-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "30_days",
+    "title": "Height Checker",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/height-checker",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "3_months",
+    "title": "Height Checker",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/height-checker",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "6_months",
+    "title": "Height Checker",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/height-checker",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Sort an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Sort an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Sort an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "H-Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/h-index",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Fair Candy Swap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fair-candy-swap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Count Good Meals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-good-meals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Fair Candy Swap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fair-candy-swap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Count Good Meals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-good-meals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Maximum Score From Removing Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Area of Square Hole in Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Length of Pair Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-pair-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Maximize Area of Square Hole in Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Fair Candy Swap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fair-candy-swap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Count Good Meals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-good-meals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Maximum Length of Pair Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-pair-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Maximum Score From Removing Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  }
+]

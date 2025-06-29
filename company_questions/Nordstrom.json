@@ -1,0 +1,232 @@
+[
+  {
+    "company": "Nordstrom",
+    "timeframe": "6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  }
+]

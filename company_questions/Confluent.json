@@ -1,0 +1,411 @@
+[
+  {
+    "company": "Confluent",
+    "timeframe": "30_days",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "3_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "3_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "3_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "6_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Debounce",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/debounce",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Count Subarrays With Median K",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Eat All Grains",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-eat-all-grains",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Atoms",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-atoms",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Eat All Grains",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-eat-all-grains",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Debounce",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/debounce",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Count Subarrays With Median K",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Number of Atoms",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-atoms",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Design Authentication Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "Confluent",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  }
+]

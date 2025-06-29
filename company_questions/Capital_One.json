@@ -1,0 +1,1378 @@
+[
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Count Operations to Obtain Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Count Operations to Obtain Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Add Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Count Operations to Obtain Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Add Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Split Message Based on Limit",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Count Alternating Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-alternating-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Four Divisors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/four-divisors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Paths",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "K-diff Pairs in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Block Placement Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Alternating Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-alternating-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Four Divisors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/four-divisors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Operations to Obtain Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Split Message Based on Limit",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Binary Tree Paths",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Add Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Rotating the Box",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "K-diff Pairs in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  }
+]

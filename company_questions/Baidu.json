@@ -1,0 +1,270 @@
+[
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Arithmetic Slices II - Subsequence",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Out of Boundary Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/out-of-boundary-paths",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Zuma Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/zuma-game",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Breadth-First Search",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Length of Longest Fibonacci Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Divide and Conquer",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Integer Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-replacement",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Arithmetic Slices",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/arithmetic-slices",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Arithmetic Slices II - Subsequence",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Divide and Conquer",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Integer Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-replacement",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Arithmetic Slices",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/arithmetic-slices",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Zuma Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/zuma-game",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Breadth-First Search",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Out of Boundary Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/out-of-boundary-paths",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Length of Longest Fibonacci Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  }
+]

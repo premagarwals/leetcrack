@@ -1,0 +1,122 @@
+[
+  {
+    "company": "Jump Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Counting"
+    ]
+  }
+]

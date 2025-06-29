@@ -1,0 +1,894 @@
+[
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Find All Numbers Disappeared in an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Keys and Rooms",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/keys-and-rooms",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Backspace String Compare",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Battleships in a Board",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/battleships-in-a-board",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Count Square Submatrices with All Ones",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Event Emitter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/event-emitter",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Distance to Closest Person",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Find All Numbers Disappeared in an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Monotonic Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/monotonic-array",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Is Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Keys and Rooms",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/keys-and-rooms",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Backspace String Compare",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Battleships in a Board",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/battleships-in-a-board",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Find All Numbers Disappeared in an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Count Square Submatrices with All Ones",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Event Emitter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/event-emitter",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Maximize Distance to Closest Person",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Is Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Monotonic Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/monotonic-array",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Line Reflection",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/line-reflection",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Isomorphic Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  }
+]

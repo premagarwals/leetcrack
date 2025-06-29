@@ -1,0 +1,1029 @@
+[
+  {
+    "company": "Akuna Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "6_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "30_days",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "3_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Largest Area of Square Inside Two Rectangles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Find the Largest Area of Square Inside Two Rectangles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Best Position for a Service Centre",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-position-for-a-service-centre",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Position for a Service Centre",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-position-for-a-service-centre",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Manhattan Distances",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-manhattan-distances",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Minimize Manhattan Distances",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-manhattan-distances",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Detonate the Maximum Bombs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rectangle Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangle-area",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time Visiting All Points",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-time-visiting-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum Time Visiting All Points",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-time-visiting-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Lines to Cover Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Geometry",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Lines to Cover Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Geometry",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "6_months",
+    "title": "Rectangle Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangle-area",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Rectangle Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangle-area",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Rectangle Overlap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rectangle-overlap",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Rectangle Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangle-area",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Rectangle Overlap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rectangle-overlap",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Pure Storage",
+    "timeframe": "3_months",
+    "title": "Valid Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Pure Storage",
+    "timeframe": "6_months",
+    "title": "Valid Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Pure Storage",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Pure Storage",
+    "timeframe": "all_time",
+    "title": "Valid Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Minimum Cuts to Divide a Circle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Circle and Rectangle Overlapping",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Circle and Rectangle Overlapping",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "3_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "6_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Area Rectangle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "more_than_6_months",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Self Crossing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/self-crossing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Self Crossing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/self-crossing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  }
+]

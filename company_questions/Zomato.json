@@ -1,0 +1,532 @@
+[
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Find and Replace Pattern",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-and-replace-pattern",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Count Zero Request Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-zero-request-servers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Ways to Divide a Long Corridor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Self Crossing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/self-crossing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Split the Array to Make Coprime Products",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Cycle in a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-cycle-in-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Spending After Buying Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-spending-after-buying-items",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Global and Local Inversions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/global-and-local-inversions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Frog Jump",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Maximum Spending After Buying Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-spending-after-buying-items",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Split the Array to Make Coprime Products",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Shortest Cycle in a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-cycle-in-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Number of Ways to Divide a Long Corridor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Find and Replace Pattern",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-and-replace-pattern",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Count Zero Request Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-zero-request-servers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Frog Jump",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Global and Local Inversions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/global-and-local-inversions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Unique Paths II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Self Crossing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/self-crossing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  }
+]

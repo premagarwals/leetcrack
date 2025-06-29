@@ -1,0 +1,362 @@
+[
+  {
+    "company": "Mitsogo",
+    "timeframe": "6_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Symmetric Coordinates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/symmetric-coordinates",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Integer Added to Array I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Integer Added to Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Substring Partition of Equal Character Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Total Reward Using Operations I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Total Reward Using Operations II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Subarray With OR at Least K II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Subarray With OR at Least K I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Construct String with Minimum Cost",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/construct-string-with-minimum-cost",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Right Triangles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/right-triangles",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Element III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Find the Integer Added to Array I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Find the Integer Added to Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Minimum Substring Partition of Equal Character Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Construct String with Minimum Cost",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/construct-string-with-minimum-cost",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Maximum Total Reward Using Operations I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Maximum Total Reward Using Operations II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Shortest Subarray With OR at Least K II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Shortest Subarray With OR at Least K I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Right Triangles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/right-triangles",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Symmetric Coordinates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/symmetric-coordinates",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Next Greater Element III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "company": "Hulu",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Pruning",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-pruning",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Valid Subarrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "more_than_6_months",
+    "title": "K-th Smallest in Lexicographical Order",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "asked_on": "",
+    "tags": [
+      "Trie"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "all_time",
+    "title": "Number of Valid Subarrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "all_time",
+    "title": "Basic Calculator III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "all_time",
+    "title": "Binary Tree Pruning",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-pruning",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "all_time",
+    "title": "Sum of Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "all_time",
+    "title": "K-th Smallest in Lexicographical Order",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "asked_on": "",
+    "tags": [
+      "Trie"
+    ]
+  }
+]

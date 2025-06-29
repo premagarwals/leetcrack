@@ -1,0 +1,1099 @@
+[
+  {
+    "company": "Databricks",
+    "timeframe": "30_days",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "Snapshot Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Snapshot Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Snapshot Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Split Message Based on Limit",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Count Integers in Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-integers-in-intervals",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Second Degree Follower",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Data Stream as Disjoint Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Design",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Design A Leaderboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Closest Leaf in a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Snapshot Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Closest Leaf in a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Split Message Based on Limit",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Count Integers in Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-integers-in-intervals",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Second Degree Follower",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Finding Pairs With a Certain Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Number of Recent Calls",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Find Peak Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Data Stream as Disjoint Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Design",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Web Crawler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Accounts Merge",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Design A Leaderboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

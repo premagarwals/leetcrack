@@ -1,0 +1,144 @@
+[
+  {
+    "company": "jio",
+    "timeframe": "6_months",
+    "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "jio",
+    "timeframe": "6_months",
+    "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "jio",
+    "timeframe": "more_than_6_months",
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Grid of Region Average",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-grid-of-region-average",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "more_than_6_months",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "all_time",
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "all_time",
+    "title": "Find the Grid of Region Average",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-grid-of-region-average",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "all_time",
+    "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "jio",
+    "timeframe": "all_time",
+    "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "jio",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "jio",
+    "timeframe": "all_time",
+    "title": "Making A Large Island",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  }
+]

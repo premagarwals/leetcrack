@@ -1,0 +1,279 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "6_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Bulb Switcher",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "more_than_6_months",
+    "title": "Divisor Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divisor-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Divisor Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divisor-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Zalando",
+    "timeframe": "more_than_6_months",
+    "title": "Construct the Longest New String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Greedy",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zalando",
+    "timeframe": "all_time",
+    "title": "Construct the Longest New String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Greedy",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  }
+]

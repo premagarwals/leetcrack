@@ -1,0 +1,7193 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Values at Indices With K Set Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Sum of Values at Indices With K Set Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Single Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "6_months",
+    "title": "Count Pairs Of Similar Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-pairs-of-similar-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "Pyramid Transition Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pyramid-transition-matrix",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "Pyramid Transition Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pyramid-transition-matrix",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Airtel",
+    "timeframe": "more_than_6_months",
+    "title": "XOR Queries of a Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/xor-queries-of-a-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Airtel",
+    "timeframe": "all_time",
+    "title": "XOR Queries of a Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/xor-queries-of-a-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Can Make Palindrome from Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-make-palindrome-from-substring",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "all_time",
+    "title": "Can Make Palindrome from Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-make-palindrome-from-substring",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "more_than_6_months",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "all_time",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "AMD",
+    "timeframe": "more_than_6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "AMD",
+    "timeframe": "all_time",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum XOR After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-xor-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Maximum XOR After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-xor-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "timeframe": "6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "more_than_6_months",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "all_time",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "more_than_6_months",
+    "title": "Integer Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-replacement",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Baidu",
+    "timeframe": "all_time",
+    "title": "Integer Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-replacement",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "BlackRock",
+    "timeframe": "6_months",
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BlackRock",
+    "timeframe": "all_time",
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Count Complete Tree Nodes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-complete-tree-nodes",
+    "asked_on": "",
+    "tags": [
+      "Binary Search",
+      "Bit Manipulation",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "all_time",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Two Out of Three",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-out-of-three",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Two Out of Three",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-out-of-three",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "3_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "more_than_6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "all_time",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "BP",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "BP",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "30_days",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Transform to Chessboard",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/transform-to-chessboard",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Transform to Chessboard",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/transform-to-chessboard",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Number Complement",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-complement",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Number Complement",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-complement",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "30_days",
+    "title": "Shopping Offers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "3_months",
+    "title": "Shopping Offers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "6_months",
+    "title": "Shopping Offers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Shopping Offers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Cruise",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/unique-paths-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Cruise",
+    "timeframe": "all_time",
+    "title": "Unique Paths III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/unique-paths-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "3_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "IP to CIDR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "6_months",
+    "title": "Find the Shortest Superstring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-shortest-superstring",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Wonderful Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-wonderful-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Points After Collecting Coins From All Nodes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum OR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-or",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Maximum Points After Collecting Coins From All Nodes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Number of Wonderful Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-wonderful-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Maximum OR",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-or",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Find the Shortest Superstring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-shortest-superstring",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Collect Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Collect Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Find Longest Awesome Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-longest-awesome-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Find Longest Awesome Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-longest-awesome-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Valid Words for Each Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Number of Valid Words for Each Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Gap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Binary Gap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "3_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "3_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Range Product Queries of Powers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Single Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gray-code",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "all_time",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "all_time",
+    "title": "Set Mismatch",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/set-mismatch",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hulu",
+    "timeframe": "all_time",
+    "title": "Sum of Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "6_months",
+    "title": "Count Pairs Of Similar Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-pairs-of-similar-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "6_months",
+    "title": "Flipping an Image",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flipping-an-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Bit Manipulation",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Range Product Queries of Powers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Count Pairs Of Similar Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-pairs-of-similar-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Flipping an Image",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/flipping-an-image",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Bit Manipulation",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Range Product Queries of Powers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Score Words Formed by Letters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-words-formed-by-letters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Maximum Score Words Formed by Letters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-words-formed-by-letters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "more_than_6_months",
+    "title": "Stickers to Spell Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stickers-to-spell-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "all_time",
+    "title": "Stickers to Spell Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stickers-to-spell-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Counting"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "more_than_6_months",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "more_than_6_months",
+    "title": "Groups of Strings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/groups-of-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Lowe's",
+    "timeframe": "all_time",
+    "title": "Groups of Strings",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/groups-of-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Lyft",
+    "timeframe": "all_time",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Form Subsequence With Target Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Square-Free Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-square-free-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Genetic Difference Query",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-genetic-difference-query",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum XOR Sum of Two Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Form Subsequence With Target Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Count the Number of Square-Free Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-square-free-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Maximum Genetic Difference Query",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-genetic-difference-query",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum XOR Sum of Two Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "30_days",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Subarray With OR at Least K II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Subarray With OR at Least K I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Shortest Subarray With OR at Least K II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Shortest Subarray With OR at Least K I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Lines to Cover Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Geometry",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Lines to Cover Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Geometry",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Nextdoor",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nextdoor",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Niantic",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "more_than_6_months",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nordstrom",
+    "timeframe": "all_time",
+    "title": "Palindrome Permutation",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "3_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Counting Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/counting-bits",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Counting Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/counting-bits",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "timeframe": "all_time",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Nice Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-nice-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Longest Nice Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-nice-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "persistent systems",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "persistent systems",
+    "timeframe": "all_time",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "3_months",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "30_days",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "3_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/unique-paths-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Unique Paths III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/unique-paths-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Quora",
+    "timeframe": "more_than_6_months",
+    "title": "Encode Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Quora",
+    "timeframe": "all_time",
+    "title": "Encode Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Consistent Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Count the Number of Consistent Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Roku",
+    "timeframe": "all_time",
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Students Taking Exam",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-students-taking-exam",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Matrix",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Maximum Students Taking Exam",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-students-taking-exam",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Matrix",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "6_months",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "all_time",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "SIG",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Score After N Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Number Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Closest Subsequence Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-subsequence-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Maximize Score After N Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Number Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Closest Subsequence Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-subsequence-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "3_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Split Array With Same Average",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-with-same-average",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise ORs of Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-ors-of-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Convert a Number to Hexadecimal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Bitwise ORs of Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-ors-of-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Power of Two",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-two",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "6_months",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Queue",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Queue",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize the Number of Partitions After Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Maximize the Number of Partitions After Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Matchsticks to Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Kill All Monsters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Substring XOR Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/substring-xor-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Substring XOR Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/substring-xor-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Kill All Monsters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Four",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Power of Four",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Warnermedia",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Warnermedia",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "more_than_6_months",
+    "title": "Power of Four",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "Power of Four",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Gap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Binary Gap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "more_than_6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-number-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "all_time",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yahoo",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "3_months",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "6_months",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/missing-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Case Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-case-permutation",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "all_time",
+    "title": "Letter Case Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-case-permutation",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "6_months",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zepto",
+    "timeframe": "all_time",
+    "title": "Divide Two Integers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zillow",
+    "timeframe": "more_than_6_months",
+    "title": "Cinema Seat Allocation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cinema-seat-allocation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zillow",
+    "timeframe": "all_time",
+    "title": "Cinema Seat Allocation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cinema-seat-allocation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "30_days",
+    "title": "Fair Distribution of Cookies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fair-distribution-of-cookies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "3_months",
+    "title": "Fair Distribution of Cookies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fair-distribution-of-cookies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "6_months",
+    "title": "Fair Distribution of Cookies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fair-distribution-of-cookies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "Cinema Seat Allocation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cinema-seat-allocation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/single-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "Cinema Seat Allocation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cinema-seat-allocation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Strong Pair XOR II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Strong Pair XOR I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "more_than_6_months",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "all_time",
+    "title": "Maximum Strong Pair XOR II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "all_time",
+    "title": "Maximum Strong Pair XOR I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "all_time",
+    "title": "Optimal Account Balancing",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  }
+]

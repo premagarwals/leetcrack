@@ -1,0 +1,640 @@
+[
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game VI",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-vi",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Stone Game VI",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-vi",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "more_than_6_months",
+    "title": "Sum Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Sum Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Predict the Winner",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Predict the Winner",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Stone Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Sum Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Sum Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Dunzo",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game VII",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-vii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Dunzo",
+    "timeframe": "all_time",
+    "title": "Stone Game VII",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-vii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Predict the Winner",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Predict the Winner",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Flip Game II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flip-game-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Memoization",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "3_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "6_months",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Chalkboard XOR Game",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game VIII",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stone-game-viii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Stone Game VIII",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stone-game-viii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "30_days",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "3_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Predict the Winner",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game IX",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-ix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Counting",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Stone Game IX",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-ix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Counting",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Verkada",
+    "timeframe": "more_than_6_months",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Verkada",
+    "timeframe": "all_time",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "more_than_6_months",
+    "title": "Divisor Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divisor-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Divisor Game",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divisor-game",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  }
+]

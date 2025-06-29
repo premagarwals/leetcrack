@@ -1,0 +1,301 @@
+[
+  {
+    "company": "Zeta",
+    "timeframe": "30_days",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "30_days",
+    "title": "Count Univalue Subtrees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "3_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "3_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "3_months",
+    "title": "Count Univalue Subtrees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "6_months",
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "6_months",
+    "title": "Count Univalue Subtrees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "IPO",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/ipo",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Find a Peak Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-a-peak-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Operations to Make Two Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  }
+]

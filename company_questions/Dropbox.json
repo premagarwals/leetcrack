@@ -1,0 +1,659 @@
+[
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Find Duplicate File in System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Malware Spread",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Game of Life",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Malware Spread II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Grid Illumination",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/grid-illumination",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Word Pattern",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/word-pattern",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Seat Reservation Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/seat-reservation-manager",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Word Pattern II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Valid Words for Each Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Find Duplicate File in System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Game of Life",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Minimize Malware Spread",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Minimize Malware Spread II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-malware-spread-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Seat Reservation Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/seat-reservation-manager",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Word Pattern II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Word Pattern",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/word-pattern",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Number of Valid Words for Each Puzzle",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Web Crawler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Grid Illumination",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/grid-illumination",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Number of Islands II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  }
+]

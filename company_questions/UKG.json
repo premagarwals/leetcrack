@@ -1,0 +1,242 @@
+[
+  {
+    "company": "UKG",
+    "timeframe": "30_days",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "3_months",
+    "title": "Maximum Area Rectangle With Point Constraints I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "UKG",
+    "timeframe": "3_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Maximum Area Rectangle With Point Constraints I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Maximum Area Rectangle With Point Constraints II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "more_than_6_months",
+    "title": "Special Binary String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Maximum Area Rectangle With Point Constraints I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Maximum Area Rectangle With Point Constraints II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Special Binary String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Angle Between Hands of a Clock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  }
+]

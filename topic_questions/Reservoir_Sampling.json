@@ -1,0 +1,72 @@
+[
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Random Flip Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-flip-matrix",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Random Pick Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-index",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Random Pick Index",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-index",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Linked List Random Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-random-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Linked List Random Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-random-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  }
+]

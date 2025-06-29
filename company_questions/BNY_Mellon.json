@@ -1,0 +1,604 @@
+[
+  {
+    "company": "BNY Mellon",
+    "timeframe": "30_days",
+    "title": "Car Fleet",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "3_months",
+    "title": "Car Fleet",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "6_months",
+    "title": "Car Fleet",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Groups to Create a Valid Assignment",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Count Visited Nodes in a Directed Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Graph",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Count of Monotonic Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Distances",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-distances",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicate Letters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Words in a String III",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Count Visited Nodes in a Directed Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Graph",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Sum of Distances",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-distances",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Groups to Create a Valid Assignment",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Reverse Words in a String III",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Move Zeroes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Remove Duplicate Letters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Find the Count of Monotonic Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Car Fleet",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  }
+]

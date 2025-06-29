@@ -1,0 +1,1231 @@
+[
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Count of Range Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-range-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Lines to Cover Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Geometry",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Longest Valid Obstacle Course at Each Position",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Best Team With No Conflicts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-team-with-no-conflicts",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Find Subarrays With Equal Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-subarrays-with-equal-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "The Employee That Worked on the Longest Task",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Count Binary Substrings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Closed Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-closed-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Count of Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Steps to Make Array Non-decreasing",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/steps-to-make-array-non-decreasing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Best Team With No Conflicts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-team-with-no-conflicts",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Find The Original Array of Prefix Xor",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "The Employee That Worked on the Longest Task",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Find Subarrays With Equal Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-subarrays-with-equal-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Find the Longest Valid Obstacle Course at Each Position",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Lines to Cover Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Geometry",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Count of Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Contiguous Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/contiguous-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Count of Range Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-range-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Reverse String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Count Binary Substrings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Number of Closed Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-closed-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Steps to Make Array Non-decreasing",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/steps-to-make-array-non-decreasing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Reverse Words in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Rotate List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  }
+]

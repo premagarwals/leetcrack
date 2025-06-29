@@ -1,0 +1,1308 @@
+[
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Tweet Counts Per Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tweet-counts-per-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Design Twitter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-twitter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Investments in 2016",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/investments-in-2016",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Best Meeting Point",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Rectangles Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangles-area",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Customer Placing the Largest Number of Orders",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Validate IP Address",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Tree Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tree-node",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Masking Personal Information",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/masking-personal-information",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Process Tasks Using Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/process-tasks-using-servers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Remove All Occurrences of a Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Design Authentication Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Count Sub Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-sub-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Elements to Add to Form a Given Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Count Student Number in Departments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Genetic Mutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-genetic-mutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Gap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Time Needed to Buy Tickets",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Permutation Sequence",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/permutation-sequence",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Finding the Users Active Minutes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/finding-the-users-active-minutes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "One Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/one-edit-distance",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Invalid Tweets",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/invalid-tweets",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Design Skiplist",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-skiplist",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Design"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten 2D Vector",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-2d-vector",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Design",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Design Twitter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-twitter",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Tweet Counts Per Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tweet-counts-per-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Investments in 2016",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/investments-in-2016",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Best Meeting Point",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Minimum Genetic Mutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-genetic-mutation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Validate IP Address",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Count Student Number in Departments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Rectangles Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangles-area",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Tree Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tree-node",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Invalid Tweets",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/invalid-tweets",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Masking Personal Information",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/masking-personal-information",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Design Authentication Manager",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Minimum Elements to Add to Form a Given Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Binary Gap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Finding the Users Active Minutes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/finding-the-users-active-minutes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Process Tasks Using Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/process-tasks-using-servers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Remove All Occurrences of a Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Customer Placing the Largest Number of Orders",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Design Skiplist",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-skiplist",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Design"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Permutation Sequence",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/permutation-sequence",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Word Break II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Time Needed to Buy Tickets",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "One Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/one-edit-distance",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Flatten 2D Vector",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-2d-vector",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Design",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Count Sub Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-sub-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/gas-station",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  }
+]

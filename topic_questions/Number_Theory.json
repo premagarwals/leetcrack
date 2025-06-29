@@ -1,0 +1,794 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Different Subsequences GCDs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Counting",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "all_time",
+    "title": "Number of Different Subsequences GCDs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Counting",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "The kth Factor of n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Ugly Number III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ugly-number-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Combinatorics",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Ugly Number III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ugly-number-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Combinatorics",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "BNY Mellon",
+    "timeframe": "all_time",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "The kth Factor of n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "The kth Factor of n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize the Maximum of Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "The kth Factor of n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Prime In Diagonal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/prime-in-diagonal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "The kth Factor of n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Prime In Diagonal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/prime-in-diagonal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Ideal Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-ideal-arrays",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Count the Number of Ideal Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-ideal-arrays",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Check If It Is a Good Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Minimum Deletions to Make Array Divisible",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Count Array Pairs Divisible by K",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-array-pairs-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Count Array Pairs Divisible by K",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-array-pairs-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "more_than_6_months",
+    "title": "Check if Point Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-point-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Check if Point Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/check-if-point-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "The kth Factor of n",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Score After N Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Number Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Count Valid Paths in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Maximize Score After N Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Number Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Count Valid Paths in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "more_than_6_months",
+    "title": "Split the Array to Make Coprime Products",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Zomato",
+    "timeframe": "all_time",
+    "title": "Split the Array to Make Coprime Products",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  }
+]

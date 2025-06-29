@@ -1,0 +1,561 @@
+[
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game VI",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-vi",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Possible Bipartition",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Count of Monotonic Pairs I",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Cycle Length Queries in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Length of Subarray With Positive Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize the Confusion of an Exam",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Diagonal Traverse",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Count Collisions on a Road",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Number of People Aware of a Secret",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "more_than_6_months",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Cycle Length Queries in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Maximum Length of Subarray With Positive Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Maximize the Confusion of an Exam",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Count Collisions on a Road",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Number of People Aware of a Secret",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Possible Bipartition",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Stone Game VI",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-vi",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Find the Count of Monotonic Pairs I",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Diagonal Traverse",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "timeframe": "all_time",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

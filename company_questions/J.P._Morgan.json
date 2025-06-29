@@ -1,0 +1,1912 @@
+[
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "3_months",
+    "title": "Button with Longest Push Time",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/button-with-longest-push-time",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "3_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "3_months",
+    "title": "Maximum Product of Two Elements in an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "6_months",
+    "title": "Button with Longest Push Time",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/button-with-longest-push-time",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "6_months",
+    "title": "Maximum Product of Two Elements in an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Suffix Flips",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-suffix-flips",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Break a Palindrome",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Absolute Difference",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Numbers With Repeated Digits",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/numbers-with-repeated-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Count Numbers with Unique Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-numbers-with-unique-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Find Resultant Array After Removing Anagrams",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Events That Can Be Attended",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Units on a Truck",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-units-on-a-truck",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Make All Array Elements Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Connect Sticks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-to-connect-sticks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Determine Color of a Chessboard Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/determine-color-of-a-chessboard-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Ugly Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ugly-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Make Array Equal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Swaps to Make Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum String Length After Removing Substrings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Degree of an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Reconstruct Original Digits from English",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Suspicious Bank Accounts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/suspicious-bank-accounts",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Lexicographically Smallest String After Applying Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Lexicographically Smallest String After a Swap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Points From Grid Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Display Table of Food Orders in a Restaurant",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-subarray-ranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Count Strictly Increasing Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Fibonacci Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Odd Levels of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Suffix Flips",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-suffix-flips",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Break a Palindrome",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Absolute Difference",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Determine Color of a Chessboard Square",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/determine-color-of-a-chessboard-square",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Numbers With Repeated Digits",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/numbers-with-repeated-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Swaps to Make Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Display Table of Food Orders in a Restaurant",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Points From Grid Queries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Reverse Odd Levels of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Lexicographically Smallest String After Applying Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Suspicious Bank Accounts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/suspicious-bank-accounts",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Lexicographically Smallest String After a Swap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Button with Longest Push Time",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/button-with-longest-push-time",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Count Numbers with Unique Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-numbers-with-unique-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Find Resultant Array After Removing Anagrams",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Events That Can Be Attended",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Maximum Units on a Truck",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-units-on-a-truck",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Maximum Product of Two Elements in an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Connect Sticks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-to-connect-sticks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Make All Array Elements Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Ugly Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ugly-number",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Make Array Equal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Fibonacci Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Add Binary",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-binary",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum String Length After Removing Substrings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Degree of an Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Pascal's Triangle",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-subarray-ranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Count Strictly Increasing Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Reconstruct Original Digits from English",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  }
+]

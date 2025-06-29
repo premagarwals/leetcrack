@@ -1,0 +1,2101 @@
+[
+  {
+    "company": "Snowflake",
+    "timeframe": "30_days",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "30_days",
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "30_days",
+    "title": "Most Profitable Path in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "30_days",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Most Profitable Path in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "3_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Most Profitable Path in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Maximum Number of Upgradable Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-upgradable-servers",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "6_months",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Boundary of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Encode and Decode Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Calculate Amount Paid in Taxes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/calculate-amount-paid-in-taxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Upgradable Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-upgradable-servers",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Median",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-median",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit From Trading Stocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Patching Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/patching-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Removable Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Maximum Length of a Good Subsequence II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Array Length After Pair Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-array-length-after-pair-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Maximum Length of a Good Subsequence I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Set Intersection Size At Least Two",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Count Nodes Equal to Average of Subtree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Word Pattern II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Range Sum Query 2D - Immutable",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Swapping Nodes in a Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Upgradable Servers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-upgradable-servers",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Find the Maximum Length of a Good Subsequence I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Minimum Array Length After Pair Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-array-length-after-pair-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Find the Maximum Length of a Good Subsequence II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Encode and Decode Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Boundary of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Calculate Amount Paid in Taxes",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/calculate-amount-paid-in-taxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Design Hit Counter",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Sliding Window Median",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-median",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Patching Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/patching-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-stack",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Maximum Profit From Trading Stocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Most Profitable Path in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Swapping Nodes in a Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "N-Queens II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "asked_on": "",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Word Pattern II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Leaf-Similar Trees",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/leaf-similar-trees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Count Nodes Equal to Average of Subtree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Removable Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Basic Calculator II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Set Intersection Size At Least Two",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Range Sum Query 2D - Immutable",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Snapshot Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  }
+]

@@ -1,0 +1,2868 @@
+[
+  {
+    "company": "Citadel",
+    "timeframe": "30_days",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "30_days",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "30_days",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "3_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Design Circular Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Sort Items by Groups Respecting Dependencies",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Couples Holding Hands",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/couples-holding-hands",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Rank Transform of a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/rank-transform-of-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Topological Sort",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Design Front Middle Back Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-front-middle-back-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Non-decreasing Subarray From Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Delete and Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-and-earn",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Knight Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Good Binary Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-good-binary-strings",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Robot Room Cleaner",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Costs Using the Train Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-costs-using-the-train-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Count Ways To Build Good Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-ways-to-build-good-strings",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Total Damage With Spell Casting",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Height Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-height-trees",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Best Position for a Service Centre",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-position-for-a-service-centre",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "First Completely Painted Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/first-completely-painted-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Couples Holding Hands",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/couples-holding-hands",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Transform to Chessboard",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/transform-to-chessboard",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Knight Probability in Chessboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/knight-probability-in-chessboard",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Perfect Squares",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/perfect-squares",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Longest Non-decreasing Subarray From Two Arrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Delete and Earn",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/delete-and-earn",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Minimum Knight Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Make Numbers Non-positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Minimum Costs Using the Train Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-costs-using-the-train-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Maximum Total Damage With Spell Casting",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Number of Good Binary Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-good-binary-strings",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Position for a Service Centre",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-position-for-a-service-centre",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "First Completely Painted Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/first-completely-painted-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Find the Duplicate Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Parallel Courses III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Robot Room Cleaner",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "asked_on": "",
+    "tags": [
+      "Backtracking",
+      "Interactive"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Couples Holding Hands",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/couples-holding-hands",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Design Search Autocomplete System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/n-queens",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Design Circular Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Transform to Chessboard",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/transform-to-chessboard",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Sort Items by Groups Respecting Dependencies",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Design Excel Sum Formula",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Design Front Middle Back Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-front-middle-back-queue",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Perfect Squares",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/perfect-squares",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Maximal Square",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Minimum Height Trees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-height-trees",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Count Ways To Build Good Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-ways-to-build-good-strings",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Rank Transform of a Matrix",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/rank-transform-of-a-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Topological Sort",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Search a 2D Matrix II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Paint House",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/paint-house",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Word Ladder II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Knight Probability in Chessboard",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/knight-probability-in-chessboard",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Sqrt(x)",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Employee Free Time",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Open the Lock",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Egg Drop With 2 Eggs and N Floors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Moving Average from Data Stream",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Bus Routes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Basic Calculator",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "The Skyline Problem",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  }
+]

@@ -1,0 +1,623 @@
+[
+  {
+    "company": "American Express",
+    "timeframe": "3_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "6_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "6_months",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum XOR After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-xor-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Percentage of Letter in String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/percentage-of-letter-in-string",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Ugly Number III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ugly-number-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Combinatorics",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize the Topmost Element After K Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Fuel Cost to Report to the Capital",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Equal Frequency",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-equal-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Ugly Number III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ugly-number-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Combinatorics",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Percentage of Letter in String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/percentage-of-letter-in-string",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Maximum XOR After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-xor-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Maximize the Topmost Element After K Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Maximum Equal Frequency",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-equal-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Add Digits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/add-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Minimum Fuel Cost to Report to the Capital",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  }
+]

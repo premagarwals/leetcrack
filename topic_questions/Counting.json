@@ -1,0 +1,6913 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "6_months",
+    "title": "Number of Good Pairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-good-pairs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "6_months",
+    "title": "Maximum Number of Balls in a Box",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accolite",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Color Value in a Directed Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Accolite",
+    "timeframe": "all_time",
+    "title": "Largest Color Value in a Directed Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Different Subsequences GCDs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Counting",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "more_than_6_months",
+    "title": "Increasing Decreasing String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/increasing-decreasing-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "all_time",
+    "title": "Increasing Decreasing String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/increasing-decreasing-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "timeframe": "all_time",
+    "title": "Number of Different Subsequences GCDs",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Counting",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Altimetrik",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Pairs in Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-pairs-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Altimetrik",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Pairs in Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-pairs-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "3_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Amdocs",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Amdocs",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "30_days",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "3_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "more_than_6_months",
+    "title": "Construct String With Repeat Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Arista Networks",
+    "timeframe": "all_time",
+    "title": "Construct String With Repeat Limit",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "30_days",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "3_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Attentive",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Avito",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "more_than_6_months",
+    "title": "Furthest Point From Origin",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "timeframe": "all_time",
+    "title": "Furthest Point From Origin",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "BlackRock",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "BlackRock",
+    "timeframe": "all_time",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Count Nice Pairs in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Remove Letter To Equalize Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Tuple with Same Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tuple-with-same-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Sum of Beauty of All Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Remove Letter To Equalize Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Bolt",
+    "timeframe": "more_than_6_months",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Bolt",
+    "timeframe": "all_time",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Box",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "ByteDance",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "more_than_6_months",
+    "title": "Count Elements With Maximum Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "all_time",
+    "title": "Count Elements With Maximum Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "30_days",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "CARS24",
+    "timeframe": "more_than_6_months",
+    "title": "Bulls and Cows",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "CARS24",
+    "timeframe": "all_time",
+    "title": "Bulls and Cows",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Chewy",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Equal Count Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-equal-count-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Number of Equal Count Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-equal-count-substrings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Citrix",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Citrix",
+    "timeframe": "all_time",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "30_days",
+    "title": "Most Common Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/most-common-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "3_months",
+    "title": "Most Common Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/most-common-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "6_months",
+    "title": "Most Common Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/most-common-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "more_than_6_months",
+    "title": "Most Common Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/most-common-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "timeframe": "all_time",
+    "title": "Most Common Word",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/most-common-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "30_days",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Deletions to Make String K-Special",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Minimum Deletions to Make String K-Special",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DevRev",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DevRev",
+    "timeframe": "more_than_6_months",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DevRev",
+    "timeframe": "all_time",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DevRev",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Disney",
+    "timeframe": "more_than_6_months",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Disney",
+    "timeframe": "all_time",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Docusign",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "30_days",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "3_months",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "6_months",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Dropbox",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "EPAM Systems",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Epic Systems",
+    "timeframe": "all_time",
+    "title": "Bulls and Cows",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Counting",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Counting",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "30_days",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "3_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Tuple with Same Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tuple-with-same-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Detect Squares",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/detect-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "6_months",
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "all_time",
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Hubspot",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "6_months",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Indeed",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Split an Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Indeed",
+    "timeframe": "more_than_6_months",
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Indeed",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Split an Array",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Indeed",
+    "timeframe": "all_time",
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "more_than_6_months",
+    "title": "Find Consecutive Integers from a Data Stream",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Counting",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "all_time",
+    "title": "Find Consecutive Integers from a Data Stream",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Counting",
+      "Data Stream"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "more_than_6_months",
+    "title": "Destroy Sequential Targets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/destroy-sequential-targets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Destroy Sequential Targets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/destroy-sequential-targets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "IXL",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Jane Street",
+    "timeframe": "more_than_6_months",
+    "title": "Count Common Words With One Occurrence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Jane Street",
+    "timeframe": "all_time",
+    "title": "Count Common Words With One Occurrence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Karat",
+    "timeframe": "6_months",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Karat",
+    "timeframe": "more_than_6_months",
+    "title": "Subdomain Visit Count",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Karat",
+    "timeframe": "all_time",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Karat",
+    "timeframe": "all_time",
+    "title": "Subdomain Visit Count",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "LiveRamp",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Harmonious Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "LiveRamp",
+    "timeframe": "all_time",
+    "title": "Longest Harmonious Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Lucid",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Balls in a Box",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Lucid",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Balls in a Box",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MakeMyTrip",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MakeMyTrip",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Count Anagrams",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Count Anagrams",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "30_days",
+    "title": "Tuple with Same Product",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tuple-with-same-product",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "30_days",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Right Triangles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/right-triangles",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Right Triangles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/right-triangles",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "6_months",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Netflix",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Nutanix",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nutanix",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "6_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "3_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Letter Tile Possibilities",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-tile-possibilities",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Ozon",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "3_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "6_months",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Population Year",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-population-year",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Maximum Population Year",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-population-year",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Pocket Gems",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Pocket Gems",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "PornHub",
+    "timeframe": "more_than_6_months",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "PornHub",
+    "timeframe": "all_time",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Quora",
+    "timeframe": "more_than_6_months",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Quora",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum With Multiplicity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-with-multiplicity",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Quora",
+    "timeframe": "all_time",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Quora",
+    "timeframe": "all_time",
+    "title": "3Sum With Multiplicity",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum-with-multiplicity",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "razorpay",
+    "timeframe": "all_time",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "30_days",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "3_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "3_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "6_months",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Frogs Croaking",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Subdomain Visit Count",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Subdomain Visit Count",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Frogs Croaking",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "30_days",
+    "title": "Split a String in Balanced Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/split-a-string-in-balanced-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "3_months",
+    "title": "Split a String in Balanced Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/split-a-string-in-balanced-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "Split a String in Balanced Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/split-a-string-in-balanced-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Nodes in the Sub-Tree With the Same Label",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "more_than_6_months",
+    "title": "Stone Game IX",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-ix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Counting",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Number of Nodes in the Sub-Tree With the Same Label",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Stone Game IX",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/stone-game-ix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Counting",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "more_than_6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Siemens",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Keypresses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-keypresses",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Array Length After Pair Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-array-length-after-pair-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Minimum Array Length After Pair Removals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-array-length-after-pair-removals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "all_time",
+    "title": "Ransom Note",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Same-End Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-same-end-substrings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Number of Same-End Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-same-end-substrings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Squarepoint Capital",
+    "timeframe": "all_time",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "3_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Unique Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/sum-of-unique-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Remove Letter To Equalize Frequency",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Balloons",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Balloons",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Turing",
+    "timeframe": "6_months",
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Turing",
+    "timeframe": "all_time",
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "30_days",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "3_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "6_months",
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "UKG",
+    "timeframe": "all_time",
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "more_than_6_months",
+    "title": "Split the Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/split-the-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Split the Array",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/split-the-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Reorganize String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "3_months",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "6_months",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Balloons",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Balloons",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "more_than_6_months",
+    "title": "Subdomain Visit Count",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "Subdomain Visit Count",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yandex",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "more_than_6_months",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Zenefits",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zenefits",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zenefits",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zenefits",
+    "timeframe": "all_time",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zeta",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "6_months",
+    "title": "Number of Good Pairs",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-good-pairs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "6_months",
+    "title": "Sort Characters By Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Population Year",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-population-year",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "Maximum Population Year",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-population-year",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "First Unique Character in a String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zopsmart",
+    "timeframe": "6_months",
+    "title": "Bulls and Cows",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Zopsmart",
+    "timeframe": "all_time",
+    "title": "Bulls and Cows",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Harmonious Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "all_time",
+    "title": "Longest Harmonious Subsequence",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ]
+  }
+]

@@ -1,0 +1,1014 @@
+[
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Form Subsequence With Target Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Square-Free Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-square-free-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Genetic Difference Query",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-genetic-difference-query",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time Visiting All Points",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-time-visiting-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Phone Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-phone-numbers",
+    "asked_on": "",
+    "tags": [
+      "Shell"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Furthest Building You Can Reach",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Submatrices That Sum to Target",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Buy Apples",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum XOR Sum of Two Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Queens That Can Attack the King",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/queens-that-can-attack-the-king",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Value of an Ordered Triplet I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Value of an Ordered Triplet II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Remoteness of All Cells",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Total Space Wasted With K Resizing Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Form Subsequence With Target Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Count the Number of Square-Free Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-the-number-of-square-free-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Maximum Genetic Difference Query",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-genetic-difference-query",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum Time Visiting All Points",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-time-visiting-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Furthest Building You Can Reach",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Queens That Can Attack the King",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/queens-that-can-attack-the-king",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum XOR Sum of Two Arrays",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Maximum Value of an Ordered Triplet I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Maximum Value of an Ordered Triplet II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Sum of Remoteness of All Cells",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Buy Apples",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Minimum Total Space Wasted With K Resizing Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Painting the Walls",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Fizz Buzz",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Valid Phone Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-phone-numbers",
+    "asked_on": "",
+    "tags": [
+      "Shell"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "asked_on": "",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "The Number of Good Subsets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Number of Submatrices That Sum to Target",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "All O`one Data Structure",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Majority Element",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/majority-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  }
+]

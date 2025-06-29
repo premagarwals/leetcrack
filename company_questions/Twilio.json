@@ -1,0 +1,293 @@
+[
+  {
+    "company": "Twilio",
+    "timeframe": "6_months",
+    "title": "Maximize Greatness of an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "6_months",
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Greatness of an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Univalued Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/univalued-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "more_than_6_months",
+    "title": "Reformat Date",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Maximize Greatness of an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Univalued Binary Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/univalued-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Reformat Date",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Reconstruct Itinerary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Twilio",
+    "timeframe": "all_time",
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  }
+]

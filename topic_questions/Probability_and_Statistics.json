@@ -1,0 +1,86 @@
+[
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "6_months",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "Twitch",
+    "timeframe": "more_than_6_months",
+    "title": "Toss Strange Coins",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/toss-strange-coins",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "Twitch",
+    "timeframe": "all_time",
+    "title": "Toss Strange Coins",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/toss-strange-coins",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Probability and Statistics"
+    ]
+  }
+]

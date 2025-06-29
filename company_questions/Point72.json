@@ -1,0 +1,166 @@
+[
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Advantage Shuffle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/advantage-shuffle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Top Travellers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/top-travellers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Restaurant Growth",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restaurant-growth",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Weather Type in Each Country",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Boolean Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Top Travellers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/top-travellers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Weather Type in Each Country",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Evaluate Boolean Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Restaurant Growth",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restaurant-growth",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Advantage Shuffle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/advantage-shuffle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  }
+]

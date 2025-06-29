@@ -1,0 +1,1219 @@
+[
+  {
+    "company": "Sprinklr",
+    "timeframe": "3_months",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "6_months",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Graph",
+      "Strongly Connected Component"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Robot Collisions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-collisions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize the Difference Between Target and Chosen Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Count of Smaller Numbers After Self",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Validate IP Address",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Numerically Balanced Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Score After N Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Number Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Count Valid Paths in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Subarray Sum After One Operation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Create Components With Same Value",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/create-components-with-same-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Tree",
+      "Depth-First Search",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Same-End Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-same-end-substrings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Great Partitions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-great-partitions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Powerful Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Closest Subsequence Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-subsequence-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Revert Word to Initial State I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Russian Doll Envelopes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Increasing Triplet Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Matrix After Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-matrix-after-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Reach a Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reach-a-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Univalue Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-univalue-path",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Graph",
+      "Strongly Connected Component"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Maximize Score After N Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Number Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Next Greater Numerically Balanced Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Create Components With Same Value",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/create-components-with-same-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Tree",
+      "Depth-First Search",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Maximum Subarray Sum After One Operation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Closest Subsequence Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/closest-subsequence-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Revert Word to Initial State I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Number of Same-End Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-same-end-substrings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Count the Number of Powerful Integers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Number of Great Partitions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-great-partitions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Robot Collisions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-collisions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimize the Difference Between Target and Chosen Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Number of Provinces",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Validate IP Address",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Count of Smaller Numbers After Self",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Count Valid Paths in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Max Points on a Line",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/3sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Reach a Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/reach-a-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Sum of Matrix After Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/sum-of-matrix-after-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Longest Univalue Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-univalue-path",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Russian Doll Envelopes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Increasing Triplet Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "company": "Shopify",
+    "timeframe": "3_months",
+    "title": "Walking Robot Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "3_months",
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "6_months",
+    "title": "Walking Robot Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "6_months",
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Find Users With Valid E-Mails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Walking Robot Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Walking Robot Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Find Users With Valid E-Mails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Walls and Gates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

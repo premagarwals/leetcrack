@@ -1,0 +1,412 @@
+[
+  {
+    "company": "Coinbase",
+    "timeframe": "3_months",
+    "title": "Zigzag Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "3_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "6_months",
+    "title": "Zigzag Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "6_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "6_months",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Zigzag Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Orders in the Backlog",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Check if There is a Valid Partition For The Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Decode the Message",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/decode-the-message",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Zigzag Iterator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Simple Bank System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Decode the Message",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/decode-the-message",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Design In-Memory File System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Design File System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Number of Orders in the Backlog",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Check if There is a Valid Partition For The Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Simplify Path",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Evaluate Division",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "timeframe": "all_time",
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  }
+]

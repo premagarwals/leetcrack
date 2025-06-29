@@ -1,0 +1,155 @@
+[
+  {
+    "company": "Alibaba",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "more_than_6_months",
+    "title": "Path Sum IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-sum-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "more_than_6_months",
+    "title": "Split Concatenated Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/split-concatenated-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "more_than_6_months",
+    "title": "Split Array with Equal Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-with-equal-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "all_time",
+    "title": "Split Array with Equal Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-with-equal-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "all_time",
+    "title": "Split Concatenated Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/split-concatenated-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "all_time",
+    "title": "Path Sum IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-sum-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "all_time",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Alibaba",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

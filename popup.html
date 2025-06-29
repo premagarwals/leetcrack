@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>LeetCode Practice Set</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', 'Fira Mono', 'Consolas', 'Menlo', monospace;
+      background: #0f0f04 !important;
+      color: #f5f6fa;
+      margin: 0;
+      min-width: 600px;
+      min-height: 340px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100vw;
+      height: 100vh;
+    }
+    .container {
+      background: #262626;
+      border-radius: 18px;
+      width: 95vw;
+      height: 96vh;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+    }
+    .left-panel {
+      flex: 1.1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 90%;
+      height: 70%;
+      background: transparent;
+    }
+    .right-panel {
+      flex: 2;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 90%;
+      height: 70%;
+      background: transparent;
+    }
+    h3 {
+      letter-spacing: 1px;
+      color: #ffa116;
+      font-weight: 700;
+      font-size: 1.3em;
+      font-family: 'Segoe UI', 'Fira Mono', monospace;
+      margin: 0;
+      margin-top: 0.5rem;
+    }
+    .leet {color: #f1f2f3;}
+    input, select {
+      width: 100%;
+      padding: 0.45em 0.7em;
+      border-radius: 8px;
+      border: none;
+      background: #222222;
+      color: #f5f6fa;
+      font-size: 1em;
+      margin-bottom: 0.5em;
+      outline: none;
+    }
+    input:focus, select:focus {
+      outline: 2px solid #1a8efa;
+    }
+    button {
+      background: #2c2110;
+      border: none;
+      height: 2.5rem;
+      width: 10rem;
+      border-radius: 8px;
+      cursor: pointer;
+      color: #fd9f16 ;
+      font-size: 1em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: background 0.2s, color 0.2s, border 0.2s;
+    }
+    button:hover {
+      background: #3f2c10;
+    }
+    .timer-bar-container {
+      width: 60%;
+      max-width: 180px;
+      height: 2.2em;
+      background: #222222;
+      border-radius: 8px;
+      margin: 1.2em 0 1em 0;
+      display: flex;
+      align-items: center;
+      position: relative;
+      box-shadow: 2px 2px 6px #181a20, -2px -2px 6px #262b36;
+      justify-content: center;
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+    .timer-bar {
+      height: 100%;
+      border-radius: 8px;
+      background: #1a8efa;
+      transition: width 1s linear;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 1;
+    }
+    .timer-label {
+      width: 100%;
+      text-align: center;
+      color: #f5f6fa;      /* <-- Use your main light text color */
+      font-weight: bold;
+      font-size: 1.08em;
+      letter-spacing: 1px;
+      z-index: 2;
+      position: relative;
+      pointer-events: none;
+      background: transparent;
+    }
+    #output {
+      margin-top: 0.5em;
+      min-height: 2em;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.7em;
+      max-height: 60%;
+      width: 90%;
+    }
+    .question-card {
+      background: #222222;
+      font-size: 0.7em;
+      border-radius: 10px;
+      box-shadow: 2px 2px 8px #181a20, -2px -2px 8px #262b36;
+      padding: 0.8em 1em;
+      display: flex;
+      flex-direction: column;
+      gap: 0.2em;
+      border-width: 0 0 0 5px;
+      border-style: solid;
+      transition: box-shadow 0.2s, border-color 0.2s;
+      position: relative;
+    }
+    .question-card.solved {
+      opacity: 0.6;
+      text-decoration: line-through;
+    }
+    .question-title {
+      font-size: 1.08em;
+      font-weight: 600;
+      color: #f1f2f3;
+      margin-bottom: 0.2em;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .question-title:hover {
+      color: #ffcc33;
+      text-decoration: underline;
+    }
+    .question-meta {
+      font-size: 0.97em;
+      color: #b2bec3;
+      display: flex;
+      gap: 1em;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .easy { color: #46c0bd; font-weight: bold; }
+    .medium { color: #fac21d; font-weight: bold; }
+    .hard { color: #f8615c; font-weight: bold; }
+    .easy-card { border-color: #46c0bd;}
+    .medium-card { border-color: #fac21d;}
+    .hard-card { border-color: #f8615c;}
+    .tags {
+      display: flex;
+      gap: 0.4em;
+      flex-wrap: wrap;
+      margin-top: 0.2em;
+    }
+    .tag {
+      background: #262626;
+      color: #1a8efa;
+      height: 2em;
+      border-radius: 1em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 1em;
+      font-size: 0.92em;
+      font-weight: 500;
+      box-shadow: 1px 1px 2px #0001;
+      letter-spacing: 0.2px;
+    }
+    .question-card.solved .tag {
+      background: #e0e0e0;
+      color: #888;
+      border-color: #bbb;
+    }
+    .hidden { display: none; }
+    @media (max-width: 800px) {
+      .container {
+        flex-direction: column;
+        max-width: 98vw;
+        min-width: 320px;
+        gap: 1.2rem;
+      }
+      .right-panel, .left-panel {
+        min-width: 0;
+        max-width: 100vw;
+      }
+    }
+    .difficulty-row {
+      display: flex;
+      gap: 1.2em;
+      margin-top: 0.7em;
+      margin-bottom: 0.5em;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .difficulty-row label {
+      display: flex;
+      align-items: center;
+      font-size: 1em;
+      font-weight: 600;
+      margin: 0;
+      gap: 0.3em;
+    }
+    .difficulty-row input[type="number"] {
+      width: 2.5em;
+      margin: 0 0.2em 0 0.4em;
+      padding: 0.3em 0.2em;
+      text-align: center;
+      border-radius: 6px;
+      background: #222222;
+      color: #46c0bd;
+      font-size: 1em;
+      border: 1.5px solid #222222;
+      outline: none;
+    }
+    .difficulty-row input[type="number"]:focus {
+      border: 1.5px solid #46c0bd;
+    }
+    .easy-label { color: #46c0bd; }
+    .medium-label { color: #ffa116; }
+    .hard-label { color: #f8615c; }
+    .duration {
+      color: #1a90ff;
+    }
+    .duration-row {
+      display: flex;
+      align-items: center;
+      gap: 0.4em;
+      margin-top: 0.3em;
+      margin-bottom: 0.5em;
+    }
+    .duration-label {
+      font-weight: 600;
+      font-size: 1em;
+      color: #1a8efa;
+      margin-right: 0.3em;
+    }
+    .duration-row input[type="number"] {
+      width: 2.2em;
+      padding: 0.3em 0.2em;
+      text-align: center;
+      border-radius: 6px;
+      background: #222222;
+      color: #1a8efa;
+      font-size: 1em;
+      border: 1.5px solid #222222;
+      margin: 0 0.1em;
+      box-shadow: 2px 2px 6px #181a20, -2px -2px 6px #262b36;
+      transition: border 0.2s, box-shadow 0.2s;
+      outline: none;
+    }
+    .duration-row input[type="number"]:focus {
+      border: 1.5px solid #1a8efa;
+    }
+    .duration-row span {
+      color: #1a8efa;
+      font-size: 1em;
+      margin-right: 0.3em;
+      margin-left: 0.1em;
+    }
+    /* Hide number input spinners for all browsers */
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    input[type="number"] {
+      -moz-appearance: textfield; /* Firefox */
+    }
+    .company-row {
+      display: flex;
+      align-items: center;
+      gap: 0.7em;
+      margin-bottom: 1.1em;
+    }
+    .company-label {
+      font-weight: 600;
+      font-size: 1em;
+      color: #1a8efa;
+      min-width: 70px;
+    }
+    .company-row select {
+      flex: 1;
+      min-width: 0;
+      width: auto;
+      padding: 0.45em 0.7em;
+      border-radius: 8px;
+      border: none;
+      background: #333333;
+      color: #f5f6fa;
+      font-size: 1em;
+      outline: none;
+    }
+    .difficulty-row,
+    .duration-row {
+      margin-bottom: 1.1em;
+    }
+    #practice-form button[type="submit"] {
+      margin-top: 0.7em;
+    }
+    .test-header-row {
+      display: flex;
+      align-items: center;
+      gap: 1em;
+      width: 100%;
+      justify-content: center; /* Center the group horizontally */
+      margin-bottom: 1em;
+    }
+    #revoke-btn {
+      min-width: 7.5em;
+      margin-right: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h3><span class="leet">Leet</span>Crack</h3>
+    <div class="left-panel">
+      <form id="practice-form">
+        <div class="company-row">
+          <label for="company-select" class="company-label">Company:</label>
+          <select id="company-select" required>
+            <option value="">Loading...</option>
+          </select>
+        </div>
+        <div class="difficulty-row">
+          <label class="easy-label">Easy:
+            <input type="number" id="easy-count" min="0" value="2" required>
+          </label>
+          <label class="medium-label">Medium:
+            <input type="number" id="medium-count" min="0" value="2" required>
+          </label>
+          <label class="hard-label">Hard:
+            <input type="number" id="hard-count" min="0" value="1" required>
+          </label>
+        </div>
+        <div class="duration-row">
+          <label class="duration-label">Time:</label>
+          <input type="number" id="duration-hh" min="0" max="23" value="1" required> <span>h</span>
+          <input type="number" id="duration-mm" min="0" max="59" value="0" required> <span>m</span>
+          <input type="number" id="duration-ss" min="0" max="59" value="0" required> <span>s</span>
+        </div>
+        <button type="submit">Generate Set</button>
+      </form>
+    </div>
+    <div class="right-panel">
+      <div class="test-header-row">
+        <div id="timer-bar-wrap" class="timer-bar-container hidden">
+          <div class="timer-bar" id="timer-bar" style="width: 100%"></div>
+          <div class="timer-label" id="timer-label"></div>
+        </div>
+        <button id="revoke-btn" class="hidden">Leave Test</button>
+      </div>
+      <div id="output"></div>
+    </div>
+  </div>
+  <script src="popup.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,400 @@
+[
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Factorization",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-factorization",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Circle and Rectangle Overlapping",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Debounce",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/debounce",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Minimum Factorization",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-factorization",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/candy",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Implement Rand10() Using Rand7()",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Circle and Rectangle Overlapping",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Next Greater Element I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Debounce",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/debounce",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

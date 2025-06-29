@@ -1,0 +1,314 @@
+[
+  {
+    "company": "thoughtspot",
+    "timeframe": "6_months",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "6_months",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "6_months",
+    "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Count Subarrays With Median K",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Snakes and Ladders",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Queue",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "more_than_6_months",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Count Subarrays With Median K",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Snakes and Ladders",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Queue",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "thoughtspot",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "company": "Mercari",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "more_than_6_months",
+    "title": "Crawler Log Folder",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/crawler-log-folder",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "more_than_6_months",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "more_than_6_months",
+    "title": "Count Largest Group",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-largest-group",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "all_time",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "all_time",
+    "title": "Crawler Log Folder",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/crawler-log-folder",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "all_time",
+    "title": "Count Largest Group",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-largest-group",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "all_time",
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Mercari",
+    "timeframe": "all_time",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  }
+]

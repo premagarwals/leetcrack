@@ -1,0 +1,787 @@
+[
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "6_months",
+    "title": "Collecting Chocolates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/collecting-chocolates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize the Difference Between Target and Chosen Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Boats to Save People",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boats-to-save-people",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Robot Collisions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-collisions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Running Time of N Computers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Fruits Harvested After at Most K Steps",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Manhattan Distances",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-manhattan-distances",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Pour Water Between Buckets to Make Water Levels Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Coins Heroes Can Collect",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Make the Array Increasing",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "The Time When the Network Becomes Idle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Operations to Collect Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Fruit Into Baskets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fruit-into-baskets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Validate IP Address",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Maximum Running Time of N Computers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Pour Water Between Buckets to Make Water Levels Equal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Collect Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Maximum Coins Heroes Can Collect",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "The Time When the Network Becomes Idle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Minimum Operations to Make the Array Increasing",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Minimize the Difference Between Target and Chosen Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Boats to Save People",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boats-to-save-people",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Robot Collisions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/robot-collisions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Collecting Chocolates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/collecting-chocolates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Maximum Fruits Harvested After at Most K Steps",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Minimize Manhattan Distances",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimize-manhattan-distances",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sorting",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Reverse String",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Fruit Into Baskets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fruit-into-baskets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Validate IP Address",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

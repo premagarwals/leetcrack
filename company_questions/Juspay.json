@@ -1,0 +1,232 @@
+[
+  {
+    "company": "Juspay",
+    "timeframe": "3_months",
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "3_months",
+    "title": "Operations on Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "6_months",
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "6_months",
+    "title": "Operations on Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Cycle in a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "more_than_6_months",
+    "title": "Operations on Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "more_than_6_months",
+    "title": "Find Closest Node to Given Two Nodes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "more_than_6_months",
+    "title": "Node With Highest Edge Score",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/node-with-highest-edge-score",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "more_than_6_months",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Longest Cycle in a Graph",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Find Closest Node to Given Two Nodes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Operations on Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Node With Highest Edge Score",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/node-with-highest-edge-score",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Juspay",
+    "timeframe": "all_time",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  }
+]

@@ -1,0 +1,2521 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Altimetrik",
+    "timeframe": "more_than_6_months",
+    "title": "Monthly Transactions I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/monthly-transactions-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Altimetrik",
+    "timeframe": "all_time",
+    "title": "Monthly Transactions I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/monthly-transactions-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "timeframe": "30_days",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Amdocs",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Amdocs",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "athenahealth",
+    "timeframe": "more_than_6_months",
+    "title": "The Number of Rich Customers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-number-of-rich-customers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "athenahealth",
+    "timeframe": "all_time",
+    "title": "The Number of Rich Customers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-number-of-rich-customers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "30_days",
+    "title": "Nth Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "3_months",
+    "title": "Nth Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "6_months",
+    "title": "Nth Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Nth Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "30_days",
+    "title": "Last Person to Fit in the Bus",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Confirmation Rate",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/confirmation-rate",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "6_months",
+    "title": "Monthly Transactions I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/monthly-transactions-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Order Two Columns Independently",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/order-two-columns-independently",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Order Two Columns Independently",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/order-two-columns-independently",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Unique Subjects Taught by Each Teacher",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "more_than_6_months",
+    "title": "Nth Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "all_time",
+    "title": "Number of Unique Subjects Taught by Each Teacher",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "all_time",
+    "title": "Nth Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "timeframe": "all_time",
+    "title": "Exchange Seats",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/exchange-seats",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "6_months",
+    "title": "Find Third Transaction",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-third-transaction",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Find Third Transaction",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-third-transaction",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "6_months",
+    "title": "Product Sales Analysis I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "more_than_6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "more_than_6_months",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "all_time",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "all_time",
+    "title": "Product Sales Analysis I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "all_time",
+    "title": "Students and Examinations",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Highest Grade For Each Student",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Highest Grade For Each Student",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "more_than_6_months",
+    "title": "Second Degree Follower",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Second Degree Follower",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "6_months",
+    "title": "Find Peak Calling Hours for Each City",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Find Peak Calling Hours for Each City",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Dell",
+    "timeframe": "6_months",
+    "title": "Delete Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Dell",
+    "timeframe": "all_time",
+    "title": "Delete Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "3_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Change Null Values in a Table to the Previous Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "more_than_6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Change Null Values in a Table to the Previous Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Deloitte",
+    "timeframe": "all_time",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "more_than_6_months",
+    "title": "Immediate Food Delivery I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "DoorDash",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "EPAM Systems",
+    "timeframe": "more_than_6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "EPAM Systems",
+    "timeframe": "all_time",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Average Time of Process per Machine",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "30_days",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "3_months",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rising Temperature",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Employees Earning More Than Their Managers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Scores",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-scores",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Rank Scores",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-scores",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "more_than_6_months",
+    "title": "Game Play Analysis V",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/game-play-analysis-v",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "more_than_6_months",
+    "title": "Game Play Analysis I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/game-play-analysis-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "more_than_6_months",
+    "title": "Game Play Analysis II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/game-play-analysis-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "more_than_6_months",
+    "title": "Game Play Analysis III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-play-analysis-iii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "more_than_6_months",
+    "title": "Game Play Analysis IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-play-analysis-iv",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "all_time",
+    "title": "Game Play Analysis V",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/game-play-analysis-v",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "all_time",
+    "title": "Game Play Analysis I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/game-play-analysis-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "all_time",
+    "title": "Game Play Analysis II",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/game-play-analysis-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "all_time",
+    "title": "Game Play Analysis III",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-play-analysis-iii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "GSN Games",
+    "timeframe": "all_time",
+    "title": "Game Play Analysis IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/game-play-analysis-iv",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Find Candidates for Data Scientist Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Maximize Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Find Candidates for Data Scientist Position",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "HashedIn",
+    "timeframe": "all_time",
+    "title": "Maximize Items",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Activity Participants",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/activity-participants",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Find Longest Calls",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-longest-calls",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Activity Participants",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/activity-participants",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "IBM",
+    "timeframe": "all_time",
+    "title": "Find Longest Calls",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-longest-calls",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Employee Bonus",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employee-bonus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Find Followers Count",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-followers-count",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "more_than_6_months",
+    "title": "Average Time of Process per Machine",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Find Followers Count",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-followers-count",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Employee Bonus",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employee-bonus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "timeframe": "all_time",
+    "title": "Average Time of Process per Machine",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "more_than_6_months",
+    "title": "Suspicious Bank Accounts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/suspicious-bank-accounts",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "J.P. Morgan",
+    "timeframe": "all_time",
+    "title": "Suspicious Bank Accounts",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/suspicious-bank-accounts",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "6_months",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "30_days",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Meta",
+    "timeframe": "3_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "30_days",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "30_days",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Average Selling Price",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/average-selling-price",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "3_months",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Symmetric Coordinates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/symmetric-coordinates",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Symmetric Coordinates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/symmetric-coordinates",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "more_than_6_months",
+    "title": "Delete Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Delete Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Ozon",
+    "timeframe": "6_months",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Ozon",
+    "timeframe": "all_time",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Paytm",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Viewers Turned Streamers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/viewers-turned-streamers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Viewers Turned Streamers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/viewers-turned-streamers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Find Median Given Frequency of Numbers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Find Median Given Frequency of Numbers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Top Travellers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/top-travellers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Restaurant Growth",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restaurant-growth",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Weather Type in Each Country",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "more_than_6_months",
+    "title": "Evaluate Boolean Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Top Travellers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/top-travellers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Weather Type in Each Country",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Evaluate Boolean Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Restaurant Growth",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restaurant-growth",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Point72",
+    "timeframe": "all_time",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Ripple",
+    "timeframe": "more_than_6_months",
+    "title": "Product Sales Analysis I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Ripple",
+    "timeframe": "all_time",
+    "title": "Product Sales Analysis I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Capital Gain/Loss",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capital-gainloss",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Capital Gain/Loss",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capital-gainloss",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Trusted Contacts of a Customer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "more_than_6_months",
+    "title": "Students and Examinations",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Students and Examinations",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "timeframe": "all_time",
+    "title": "Number of Trusted Contacts of a Customer",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Movie Rating",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/movie-rating",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Movie Rating",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/movie-rating",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "more_than_6_months",
+    "title": "Find Users With Valid E-Mails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Find Users With Valid E-Mails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Movie Rating",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/movie-rating",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Movie Rating",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/movie-rating",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "more_than_6_months",
+    "title": "Leetcodify Similar Friends",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/leetcodify-similar-friends",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "more_than_6_months",
+    "title": "Leetcodify Friends Recommendations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "all_time",
+    "title": "Leetcodify Friends Recommendations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "timeframe": "all_time",
+    "title": "Leetcodify Similar Friends",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/leetcodify-similar-friends",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "3_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "6_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Friday Purchases I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/friday-purchases-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Delete Duplicate Emails",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Students and Examinations",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Employee Bonus",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employee-bonus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Find Customer Referee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Big Countries",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/big-countries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Department Top Three Salaries",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Students and Examinations",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Employee Bonus",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employee-bonus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "more_than_6_months",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Immediate Food Delivery II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tencent",
+    "timeframe": "all_time",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Find Followers Count",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-followers-count",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "more_than_6_months",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Find Followers Count",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/find-followers-count",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tesla",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "more_than_6_months",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Department Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Turing",
+    "timeframe": "more_than_6_months",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Turing",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Twitch",
+    "timeframe": "more_than_6_months",
+    "title": "Create a Session Bar Chart",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-a-session-bar-chart",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Twitch",
+    "timeframe": "all_time",
+    "title": "Create a Session Bar Chart",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/create-a-session-bar-chart",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "The Winner University",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-winner-university",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Warnermedia",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Accounts That Did Not Stream",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Warnermedia",
+    "timeframe": "all_time",
+    "title": "Number of Accounts That Did Not Stream",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "6_months",
+    "title": "Last Person to Fit in the Bus",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "more_than_6_months",
+    "title": "Team Scores in Football Tournament",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "more_than_6_months",
+    "title": "Tournament Winners",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/tournament-winners",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "all_time",
+    "title": "Team Scores in Football Tournament",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "all_time",
+    "title": "Tournament Winners",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/tournament-winners",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wayfair",
+    "timeframe": "all_time",
+    "title": "Last Person to Fit in the Bus",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Second Highest Salary",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Article Views I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "more_than_6_months",
+    "title": "Employees Earning More Than Their Managers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "Employees Earning More Than Their Managers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Investments in 2016",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/investments-in-2016",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Rectangles Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangles-area",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Customer Placing the Largest Number of Orders",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Tree Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tree-node",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Count Student Number in Departments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Invalid Tweets",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/invalid-tweets",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Investments in 2016",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/investments-in-2016",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Count Student Number in Departments",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Rectangles Area",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rectangles-area",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Tree Node",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/tree-node",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Invalid Tweets",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/invalid-tweets",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Customer Placing the Largest Number of Orders",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "more_than_6_months",
+    "title": "Active Businesses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/active-businesses",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Yelp",
+    "timeframe": "all_time",
+    "title": "Active Businesses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/active-businesses",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "more_than_6_months",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "more_than_6_months",
+    "title": "The Number of Employees Which Report to Each Employee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "all_time",
+    "title": "Managers with at Least 5 Direct Reports",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "all_time",
+    "title": "The Number of Employees Which Report to Each Employee",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  }
+]

@@ -1,0 +1,1697 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "6_months",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "more_than_6_months",
+    "title": "Strings Differ by One Character",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "timeframe": "all_time",
+    "title": "Strings Differ by One Character",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Apple",
+    "timeframe": "6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Bloomberg",
+    "timeframe": "3_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "more_than_6_months",
+    "title": "Delete Duplicate Folders in System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "timeframe": "all_time",
+    "title": "Delete Duplicate Folders in System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "3_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "6_months",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "3_months",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "3_months",
+    "title": "Longest Repeating Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "6_months",
+    "title": "Longest Repeating Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "6_months",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Duplicate Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Longest Repeating Substring",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Longest Duplicate Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Coupang",
+    "timeframe": "all_time",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Deletions on a String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-deletions-on-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Maximum Deletions on a String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-deletions-on-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Dunzo",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Dunzo",
+    "timeframe": "all_time",
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "eBay",
+    "timeframe": "all_time",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Counting",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Counting",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Expedia",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "timeframe": "all_time",
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "3_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "all_time",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "timeframe": "all_time",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Intuit",
+    "timeframe": "all_time",
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Jump Trading",
+    "timeframe": "all_time",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "more_than_6_months",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "timeframe": "all_time",
+    "title": "Repeated DNA Sequences",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "more_than_6_months",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "timeframe": "all_time",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "more_than_6_months",
+    "title": "Delete Duplicate Folders in System",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Nvidia",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Okta",
+    "timeframe": "all_time",
+    "title": "Strings Differ by One Character",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "3_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "3_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "6_months",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "more_than_6_months",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palantir Technologies",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "6_months",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Pocket Gems",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Duplicate Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "timeframe": "all_time",
+    "title": "Longest Duplicate Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "more_than_6_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "6_months",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Samsung",
+    "timeframe": "all_time",
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ServiceNow",
+    "timeframe": "all_time",
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "3_months",
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "6_months",
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "timeframe": "all_time",
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Splunk",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Splunk",
+    "timeframe": "all_time",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Revert Word to Initial State I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Revert Word to Initial State I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "6_months",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "ThoughtWorks",
+    "timeframe": "all_time",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Number of Distinct Islands",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Two Sigma",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashSet",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashset",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Wix",
+    "timeframe": "all_time",
+    "title": "Design HashSet",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashset",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "more_than_6_months",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Zoho",
+    "timeframe": "all_time",
+    "title": "Design HashMap",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  }
+]

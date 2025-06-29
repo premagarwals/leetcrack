@@ -1,0 +1,230 @@
+[
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Convert Integer to the Sum of Two No-Zero Integers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Add Edges to Make Degrees of All Nodes Even",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum 69 Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-69-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Total Importance of Roads",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Graph",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Score From Grid Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Path With Different Adjacent Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Add Edges to Make Degrees of All Nodes Even",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Graph"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Longest Path With Different Adjacent Characters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Maximum Total Importance of Roads",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+    "asked_on": "",
+    "tags": [
+      "Greedy",
+      "Graph",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Convert Integer to the Sum of Two No-Zero Integers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Maximum 69 Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-69-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Maximum Score From Grid Operations",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Can I Win",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/can-i-win",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  }
+]

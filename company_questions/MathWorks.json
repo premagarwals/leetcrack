@@ -1,0 +1,816 @@
+[
+  {
+    "company": "MathWorks",
+    "timeframe": "3_months",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "3_months",
+    "title": "Pass the Pillow",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pass-the-pillow",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "3_months",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "6_months",
+    "title": "Pass the Pillow",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pass-the-pillow",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "6_months",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "6_months",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "6_months",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Number of Alloys",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-alloys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Reshape the Matrix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reshape-the-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Break a Palindrome",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Earliest Second to Mark Indices I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Earliest Second to Mark Indices II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Keyboard Row",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/keyboard-row",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Last Substring in Lexicographical Order",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Count Anagrams",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Fraction to Recurring Decimal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "more_than_6_months",
+    "title": "Pass the Pillow",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pass-the-pillow",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Alloys",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-alloys",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Reshape the Matrix",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/reshape-the-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Keyboard Row",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/keyboard-row",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Earliest Second to Mark Indices I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Earliest Second to Mark Indices II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Last Substring in Lexicographical Order",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Count Anagrams",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "String Transformation",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Pass the Pillow",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/pass-the-pillow",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Sum of Distances in Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Split Array Largest Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Break a Palindrome",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Maximum Difference Between Increasing Elements",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Math"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/two-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Beautiful Arrangement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Cherry Pickup",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Fraction to Recurring Decimal",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Remove Boxes",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "MathWorks",
+    "timeframe": "all_time",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

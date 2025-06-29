@@ -1,0 +1,100 @@
+[
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "Nutanix",
+    "timeframe": "6_months",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "Nutanix",
+    "timeframe": "all_time",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "3_months",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "company": "Geico",
+    "timeframe": "30_days",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "30_days",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "3_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "3_months",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "3_months",
+    "title": "Maximum Number of Potholes That Can Be Fixed",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Maximum Number of Potholes That Can Be Fixed",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Largest Palindromic Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Number of Spaces Cleaning Robot Cleaned",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "6_months",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Count of Smaller Numbers After Self",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Path with Maximum Gold",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-with-maximum-gold",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Boundary of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Happy String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "more_than_6_months",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Maximum Number of Potholes That Can Be Fixed",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Largest Palindromic Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coin-change",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "First Missing Positive",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Number of Spaces Cleaning Robot Cleaned",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Boundary of Binary Tree",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Path with Maximum Gold",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/path-with-maximum-gold",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Count of Smaller Numbers After Self",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Rotate Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Decode String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/decode-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Roman to Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Minimum Moves to Spread Stones Over Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Geico",
+    "timeframe": "all_time",
+    "title": "Longest Happy String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  }
+]

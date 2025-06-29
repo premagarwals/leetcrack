@@ -1,0 +1,154 @@
+[
+  {
+    "company": "Samsara",
+    "timeframe": "6_months",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "more_than_6_months",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "more_than_6_months",
+    "title": "Alternating Groups II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/alternating-groups-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "more_than_6_months",
+    "title": "Alternating Groups I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/alternating-groups-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Alternating Groups I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/alternating-groups-i",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Alternating Groups II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/alternating-groups-ii",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "timeframe": "all_time",
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  }
+]

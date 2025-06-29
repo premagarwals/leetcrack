@@ -1,0 +1,194 @@
+[
+  {
+    "company": "Darwinbox",
+    "timeframe": "6_months",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "6_months",
+    "title": "Number of Great Partitions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-great-partitions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "more_than_6_months",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Majority Element II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Number of Great Partitions",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-great-partitions",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Darwinbox",
+    "timeframe": "all_time",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time to Kill All Monsters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Substring XOR Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/substring-xor-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Handling Sum Queries After Update",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "more_than_6_months",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Substring XOR Queries",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/substring-xor-queries",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Handling Sum Queries After Update",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Segment Tree"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Minimum Time to Kill All Monsters",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Trilogy",
+    "timeframe": "all_time",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

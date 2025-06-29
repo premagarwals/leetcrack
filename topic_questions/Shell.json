@@ -1,0 +1,35 @@
+[
+  {
+    "company": "Media.net",
+    "timeframe": "more_than_6_months",
+    "title": "Valid Phone Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-phone-numbers",
+    "asked_on": "",
+    "tags": [
+      "Shell"
+    ]
+  },
+  {
+    "company": "Media.net",
+    "timeframe": "all_time",
+    "title": "Valid Phone Numbers",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-phone-numbers",
+    "asked_on": "",
+    "tags": [
+      "Shell"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "timeframe": "all_time",
+    "title": "Word Frequency",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-frequency",
+    "asked_on": "",
+    "tags": [
+      "Shell"
+    ]
+  }
+]

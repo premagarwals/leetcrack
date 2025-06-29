@@ -1,0 +1,192 @@
+[
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Walking Robot Simulation II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/walking-robot-simulation-ii",
+    "asked_on": "",
+    "tags": [
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Available Captures for Rook",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/available-captures-for-rook",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Squirrel Simulation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/squirrel-simulation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/word-break",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Falling Squares",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/falling-squares",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Count Nice Pairs in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Rotating the Box",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Pancake Sorting",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/pancake-sorting",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "The Maze",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/the-maze",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Integer to English Words",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Reconstruct Itinerary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  }
+]

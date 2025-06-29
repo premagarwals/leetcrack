@@ -1,0 +1,1133 @@
+[
+  {
+    "company": "Accenture",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Accenture",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "more_than_6_months",
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "American Express",
+    "timeframe": "all_time",
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Square Area by Removing Fences From a Field",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Maximum Square Area by Removing Fences From a Field",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Atlassian",
+    "timeframe": "all_time",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Block",
+    "timeframe": "all_time",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Capital One",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "more_than_6_months",
+    "title": "Sum of k-Mirror Numbers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-k-mirror-numbers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Cisco",
+    "timeframe": "all_time",
+    "title": "Sum of k-Mirror Numbers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sum-of-k-mirror-numbers",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "6_months",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Citadel",
+    "timeframe": "all_time",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "6_months",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "timeframe": "all_time",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "6_months",
+    "title": "Consecutive Numbers Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/consecutive-numbers-sum",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Removing Minimum Number of Magic Beans",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/removing-minimum-number-of-magic-beans",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Enumeration",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "more_than_6_months",
+    "title": "Shortest String That Contains Three Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Removing Minimum Number of Magic Beans",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/removing-minimum-number-of-magic-beans",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Enumeration",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "timeframe": "all_time",
+    "title": "Shortest String That Contains Three Strings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Greedy",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "6_months",
+    "title": "Collecting Chocolates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/collecting-chocolates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "timeframe": "all_time",
+    "title": "Collecting Chocolates",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/collecting-chocolates",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Google",
+    "timeframe": "6_months",
+    "title": "Check if Word Can Be Placed In Crossword",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_6_months",
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "timeframe": "all_time",
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Intel",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "LiveRamp",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Time for Given Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "LiveRamp",
+    "timeframe": "all_time",
+    "title": "Largest Time for Given Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Lyft",
+    "timeframe": "all_time",
+    "title": "Coordinate With Maximum Network Quality",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Meesho",
+    "timeframe": "all_time",
+    "title": "Number of Possible Sets of Closing Branches",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "timeframe": "6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Integer Added to Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Mitsogo",
+    "timeframe": "all_time",
+    "title": "Find the Integer Added to Array II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "more_than_6_months",
+    "title": "Smallest Greater Multiple Made of Two Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "PayPal",
+    "timeframe": "all_time",
+    "title": "Smallest Greater Multiple Made of Two Digits",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Result by Adding Parentheses to Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "timeframe": "all_time",
+    "title": "Minimize Result by Adding Parentheses to Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Ways to Buy Pens and Pencils",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "timeframe": "all_time",
+    "title": "Number of Ways to Buy Pens and Pencils",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Candies Among Children I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Distribute Candies Among Children I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "more_than_6_months",
+    "title": "Count Increasing Quadruplets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Enumeration",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "SAP",
+    "timeframe": "all_time",
+    "title": "Count Increasing Quadruplets",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Enumeration",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "more_than_6_months",
+    "title": "Minimize Result by Adding Parentheses to Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Snap",
+    "timeframe": "all_time",
+    "title": "Minimize Result by Adding Parentheses to Expression",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "SoFi",
+    "timeframe": "all_time",
+    "title": "Longest Mountain in Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Next Greater Numerically Balanced Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Create Components With Same Value",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/create-components-with-same-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Tree",
+      "Depth-First Search",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Next Greater Numerically Balanced Number",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Create Components With Same Value",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/create-components-with-same-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Tree",
+      "Depth-First Search",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "tcs",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "TikTok",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "6_months",
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Tinkoff",
+    "timeframe": "all_time",
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "30_days",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "3_months",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Uber",
+    "timeframe": "6_months",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "more_than_6_months",
+    "title": "Consecutive Numbers Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/consecutive-numbers-sum",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Visa",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/consecutive-numbers-sum",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "VMware",
+    "timeframe": "more_than_6_months",
+    "title": "Consecutive Numbers Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/consecutive-numbers-sum",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "VMware",
+    "timeframe": "all_time",
+    "title": "Consecutive Numbers Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/consecutive-numbers-sum",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Walmart Labs",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Moves to Capture The Queen",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "more_than_6_months",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Minimum Moves to Capture The Queen",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Wipro",
+    "timeframe": "all_time",
+    "title": "Count Primes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-primes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "X",
+    "timeframe": "all_time",
+    "title": "Number of Black Blocks",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "ZS Associates",
+    "timeframe": "all_time",
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "more_than_6_months",
+    "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "ZScaler",
+    "timeframe": "all_time",
+    "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy",
+      "Enumeration"
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Find Longest Awesome Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-longest-awesome-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Cost to Buy Apples",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Largest Submatrix With Rearrangements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-submatrix-with-rearrangements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Winner of an Array Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-winner-of-an-array-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Minimum Cost to Buy Apples",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Find the Winner of an Array Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-winner-of-an-array-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Find Longest Awesome Substring",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-longest-awesome-substring",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Largest Submatrix With Rearrangements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/largest-submatrix-with-rearrangements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Directi",
+    "timeframe": "all_time",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

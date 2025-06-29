@@ -1,0 +1,331 @@
+[
+  {
+    "company": "Coursera",
+    "timeframe": "6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Moves to Equal Array Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "N-th Tribonacci Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Special Binary String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Music Playlists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-music-playlists",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "more_than_6_months",
+    "title": "Highest Grade For Each Student",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Reaching Points",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Number of Music Playlists",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/number-of-music-playlists",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Highest Grade For Each Student",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Minimum Moves to Equal Array Elements",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "N-th Tribonacci Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Special Binary String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Rank Teams by Votes",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Wildcard Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Search Suggestions System",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Coursera",
+    "timeframe": "all_time",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  }
+]

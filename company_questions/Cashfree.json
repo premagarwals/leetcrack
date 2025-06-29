@@ -1,0 +1,132 @@
+[
+  {
+    "company": "Cashfree",
+    "timeframe": "more_than_6_months",
+    "title": "Max Chunks To Make Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Greedy",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "more_than_6_months",
+    "title": "House Robber IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Erasure Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-erasure-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "more_than_6_months",
+    "title": "Non-decreasing Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/non-decreasing-array",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "all_time",
+    "title": "House Robber IV",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/house-robber-iv",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "all_time",
+    "title": "Maximum Erasure Value",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-erasure-value",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "all_time",
+    "title": "Max Chunks To Make Sorted",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Stack",
+      "Greedy",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Cashfree",
+    "timeframe": "all_time",
+    "title": "Non-decreasing Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/non-decreasing-array",
+    "asked_on": "",
+    "tags": [
+      "Array"
+    ]
+  }
+]

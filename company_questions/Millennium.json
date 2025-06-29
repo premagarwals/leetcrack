@@ -1,0 +1,145 @@
+[
+  {
+    "company": "Millennium",
+    "timeframe": "6_months",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "more_than_6_months",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "more_than_6_months",
+    "title": "Broken Calculator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/broken-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "more_than_6_months",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/powx-n",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Broken Calculator",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/broken-calculator",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "company": "Millennium",
+    "timeframe": "all_time",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "asked_on": "",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "company": "Robinhood",
+    "timeframe": "3_months",
+    "title": "Defanging an IP Address",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/defanging-an-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "6_months",
+    "title": "Defanging an IP Address",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/defanging-an-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Number of Orders in the Backlog",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Restore the Array From Adjacent Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Check if There is a Valid Path in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Count Good Meals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-good-meals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Ways to Split Array Into Three Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Capital Gain/Loss",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capital-gainloss",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Count the Number of Consistent Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "more_than_6_months",
+    "title": "Brightest Position on Street",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Number of Orders in the Backlog",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Restore the Array From Adjacent Pairs",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Brightest Position on Street",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Count Good Meals",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-good-meals",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Ways to Split Array Into Three Subarrays",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Check if There is a Valid Path in a Grid",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Capital Gain/Loss",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/capital-gainloss",
+    "asked_on": "",
+    "tags": [
+      "Database"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Count the Number of Consistent Strings",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Text Justification",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/text-justification",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Top K Frequent Words",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Robinhood",
+    "timeframe": "all_time",
+    "title": "Defanging an IP Address",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/defanging-an-ip-address",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  }
+]

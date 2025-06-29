@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Sprinklr",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Graph",
+      "Strongly Connected Component"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "timeframe": "all_time",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Tree",
+      "Graph",
+      "Strongly Connected Component"
+    ]
+  }
+]

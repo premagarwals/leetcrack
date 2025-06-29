@@ -1,0 +1,126 @@
+[
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Number Complement",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-complement",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "more_than_6_months",
+    "title": "Lexicographically Smallest Equivalent String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Union Find"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Number Complement",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/number-complement",
+    "asked_on": "",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "asked_on": "",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "timeframe": "all_time",
+    "title": "Lexicographically Smallest Equivalent String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Union Find"
+    ]
+  }
+]

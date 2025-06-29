@@ -1,0 +1,399 @@
+[
+  {
+    "company": "Verily",
+    "timeframe": "3_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "6_months",
+    "title": "Find Original Array From Doubled Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "6_months",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "6_months",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Area Rectangle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Knight Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Time Needed to Inform All Employees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-needed-to-inform-all-employees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "more_than_6_months",
+    "title": "Video Stitching",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/video-stitching",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/happy-number",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/jump-game",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Find Original Array From Doubled Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Guess the Word",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Minimum Knight Moves",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "asked_on": "",
+    "tags": [
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Time Needed to Inform All Employees",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/time-needed-to-inform-all-employees",
+    "asked_on": "",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Video Stitching",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/video-stitching",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "company": "Verily",
+    "timeframe": "all_time",
+    "title": "Minimum Area Rectangle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Sorting"
+    ]
+  }
+]

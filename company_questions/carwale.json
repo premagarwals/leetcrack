@@ -1,0 +1,174 @@
+[
+  {
+    "company": "carwale",
+    "timeframe": "3_months",
+    "title": "Find Mirror Score of a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "carwale",
+    "timeframe": "6_months",
+    "title": "Find Mirror Score of a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "carwale",
+    "timeframe": "more_than_6_months",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "more_than_6_months",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "more_than_6_months",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Time Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "Find Mirror Score of a String",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "Zigzag Conversion",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "asked_on": "",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "Minimum Time Difference",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/minimum-time-difference",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "carwale",
+    "timeframe": "all_time",
+    "title": "Linked List Cycle II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  }
+]

@@ -1,0 +1,851 @@
+[
+  {
+    "company": "Rubrik",
+    "timeframe": "3_months",
+    "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "3_months",
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "3_months",
+    "title": "Stamping the Grid",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stamping-the-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "6_months",
+    "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "6_months",
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "6_months",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "6_months",
+    "title": "Stamping the Grid",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stamping-the-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Maximum Points After Enemy Battles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Stamping the Grid",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stamping-the-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Candies Among Children I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Cherry Pickup II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Find the Sum of Subsequence Powers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Existence of a Substring in a String and Its Reverse",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Candies Among Children III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "more_than_6_months",
+    "title": "Alice and Bob Playing Flower Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Maximum Points After Enemy Battles",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Stamping the Grid",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/stamping-the-grid",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Random Pick with Weight",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Candy Crush",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Alice and Bob Playing Flower Game",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+    "asked_on": "",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Find the Sum of Subsequence Powers",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Existence of a Substring in a String and Its Reverse",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Distribute Candies Among Children III",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Distribute Candies Among Children I",
+    "difficulty": "EASY",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+    "asked_on": "",
+    "tags": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+    "asked_on": "",
+    "tags": []
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "asked_on": "",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "asked_on": "",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "4Sum",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/4sum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Design a Text Editor",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "asked_on": "",
+    "tags": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Cherry Pickup II",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/cherry-pickup-ii",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "asked_on": "",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "MEDIUM",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "asked_on": "",
+    "tags": [
+      "Concurrency"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "timeframe": "all_time",
+    "title": "Prefix and Suffix Search",
+    "difficulty": "HARD",
+    "link": "https://leetcode.com/problems/prefix-and-suffix-search",
+    "asked_on": "",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  }
+]
