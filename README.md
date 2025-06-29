@@ -16,31 +16,57 @@
 
 ---
 
-## Installation
+# 🚀 Installation Guide (How to Use LeetCrack)
 
-### For Firefox
-
-1. Download or clone this repository to your computer.
-2. Open Firefox and go to `about:debugging#/runtime/this-firefox`
-3. Click **"Load Temporary Add-on..."**
-4. Select any file in the extension folder (e.g., `manifest.json`).
-5. The extension should now appear in your browser toolbar.
-
-### For Chrome (and Chromium-based browsers)
-
-Yes, LeetCrack works on Chrome too!  
-Just follow these steps:
-
-1. Download or clone this repository to your computer.
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable **Developer mode** (toggle in the top right).
-4. Click **"Load unpacked"**.
-5. Select the extension folder (the one containing `manifest.json`).
-6. The extension should now appear in your browser toolbar.
+**Pick your browser below and follow the steps. Just copy-paste the commands into your terminal!**
 
 ---
 
-## Usage
+## 🦊 Firefox (and Zen etc.)
+
+1. **Download the Extension Files**
+
+   Open your terminal and run:
+   ```sh
+   git clone https://github.com/premagarwals/leetcrack.git
+   ```
+2. **Load the Extension in Firefox**
+
+   - Open Firefox.
+   - In the address bar, type: `about:debugging#/runtime/this-firefox` and press Enter.
+   - Click **"Load Temporary Add-on..."**.
+   - In the file dialog, go to the leetcrack folder (where you cloned it) and select the `manifest.json` file from the folder you just entered.
+
+3. **Done!**
+   - The LeetCrack icon should now appear in your browser toolbar.
+   - Click it to start using.
+
+---
+
+## 🟦 Chrome (and Edge, Brave, Chromium, etc.)
+
+1. **Download the Extension Files**
+
+   Open your terminal and run:
+   ```sh
+   git clone https://github.com/premagarwals/leetcrack.git
+   cd leetcrack
+   ```
+2. **Load the Extension in Chrome**
+
+   - Open Chrome.
+   - In the address bar, type: `chrome://extensions/` and press Enter.
+   - At the top right, turn on **Developer mode** (toggle switch).
+   - Click **"Load unpacked"**.
+   - In the dialog, select the folder you just cloned (the one containing `manifest.json`).
+
+3. **Done!**
+   - The LeetCrack icon should now appear in your browser extension.
+   - Click it to start using.
+
+---
+
+## 📝 Usage
 
 1. Click the LeetCrack icon in your browser.
 2. Select your target company.
@@ -72,4 +98,5 @@ If you have issues or suggestions, open an issue or PR on GitHub.
 
 ---
 
-**Happy grinding!**
+**Happy grinding!**  
+_LeetCrack: It's not just coded, it's vibecoded._
